@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Aisuko
+email: urakiny@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Interested in Quantum computing and MIT-Scheme, Master of RMIT
+twitter_username: AisukoLi
+github_username: Aisuko
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,22 +56,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Aisuko Li"
+  avatar : "/assets/images/aisuko.jpg"
+  bio    : "Interested in Quantum computing and MIT-Scheme, Master of RMIT"
   links:
-    - label: "Website"
+    - label: "Savannah"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://savannah.nongnu.org/users/aisuko"
+    - label: "CNCF"
+      icon: "fas fa-fw fa-link"
+      url: "https://community.cncf.io/u/mbkrge/#/about"    
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://flickr.com/people/aisukoli/"
 
 footer:
   links:
@@ -83,9 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://flickr.com/people/aisukoli/"
 
 defaults:
   # _posts
