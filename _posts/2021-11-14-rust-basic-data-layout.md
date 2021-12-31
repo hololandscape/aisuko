@@ -11,10 +11,6 @@ tags:
 ---
 
 
-
-
-### Procedural programmers VS Functional programmers
-
 For my personal opinion, we need to use the knowledge to make effect to industry. People still limit by the energy and time.  
 
 [I follow this idea](https://hololandscape.github.io/blog/blog/never-needed-yet/)

@@ -12,9 +12,6 @@ toc_icon: "cog"
 ---
 
 
-
-## Overview
-
 What's mean of the Linked list's tail pointer?  
 
 * Inserting at the end is O(1) instead of O(N)
