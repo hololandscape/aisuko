@@ -3,7 +3,7 @@ title: "GNU Linux namespace"
 categories:
   - Document
 tags:
-  - GNUlinux
+  - GNU/linux
   - container
   - namespace
 toc: true
