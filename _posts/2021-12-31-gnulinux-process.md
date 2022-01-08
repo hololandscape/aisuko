@@ -14,7 +14,7 @@ toc_icon: "cog"
 In computing, a process is the instance of a computer program that being executed by one or many threads. It contains the program code and its activity. 
 
 
-![processing](/assets/images/Concepts_Program_vs_Process_vs_Thread.jpg){: .full}
+![processing](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Concepts-_Program_vs._Process_vs._Thread.jpg/1280px-Concepts-_Program_vs._Process_vs._Thread.jpg){: .align-center}
 
 
 ## Representation

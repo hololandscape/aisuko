@@ -1,5 +1,5 @@
 ---
-title: "GNU Linux namespace"
+title: "GNU Linux Namespace"
 categories:
   - Document
 tags:
