@@ -8,7 +8,7 @@ tags:
   - season1
   - episode2
   - apple-tv
-toc: true
+toc: false
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
