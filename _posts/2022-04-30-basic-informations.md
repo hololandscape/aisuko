@@ -1,5 +1,5 @@
 ---
-title: "Basic information of Melbourne"
+title: "Melbourne"
 categories:
   - Document
   - Blog
@@ -8,54 +8,46 @@ tags:
   - Location
   - Melbourne
   - Map
-toc: false
+toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
 
-
-“Someone has to start. Other people might not be cooperative, but that is not connected to you. My advice is this: You should start. With no regard to whether others are cooperative or not.” – Alfred Alder
-
-
-
-
-[Melbourne Map](https://www.google.com/maps/dir/''/RMIT+University+Melbourne+City+Campus,+124+La+Trobe+St,+Melbourne+VIC+3000,+Australia/@-37.8129592,144.9597195,14.44z/data=!4m14!4m13!1m5!1m1!1s0x0:0xed6e6acedcefb31c!2m2!1d144.9639386!2d-37.8083332!1m5!1m1!1s0x6ad642cb0a2ff0fb:0xed6e6acedcefb31c!2m2!1d144.9639386!2d-37.8083332!3e2?hl=en)
-
-
 # Basic information
 
-Melbourne is the capital of Australian state of Vitoria.
+* Melbourne is the capital of Australian state of Vitoria.
 
-The city occupies much of the northern and eastern coastlines of `Port Phillip Bay` and spreads into the `Mornington Perninsula` and the `hinterlands` towards tje `Yarra Valley` and the `Dandenong` and `Macedon Ranges`.
+* The city occupies much of the northern and eastern coastlines of `Port Phillip Bay` and spreads into the `Mornington Perninsula` and the `hinterlands` towards tje `Yarra Valley` and the `Dandenong` and `Macedon Ranges`.
 
 
 ## Port Phillip Bay
 
-* `Port Phillip` (`Kulin`: Naarm Naarm), or `Port Phillip Bay`, is a horsehead-shaped enclosed bay on the central coast of southern `Victoria`, `Australia`. 
-  * The `Kulin` languages are a group of closely related languages of the `Kulin` people, part of the `Kulinic` branch of `Pama–Nyungan`.
+`Port Phillip` or `Port Phillip Bay`, is a horsehead-shaped enclosed bay on the central coast of southern `Victoria`, `Australia`. 
+
 
 ![Port Phillip Bay](https://upload.wikimedia.org/wikipedia/commons/f/f1/Portphillip.gif){: .align-center}
 
 ## Yarra Valley
 
-* The `Yarra Valley` is the region surrounding the `Yarra River` in `Victoria`, `Australia`.
+The `Yarra Valley` is the region surrounding the `Yarra River` in `Victoria`, `Australia`.
 
 ![Yarra Valley](https://upload.wikimedia.org/wikipedia/commons/7/7b/Domain_Chandon_Yarra_Valley_aerial_panorama.jpg){: .align-center}
 
 
 ## Dandenong
 
-* The `Dandenong Ranges` (commonly just `The Dandenongs`) are a set of low mountain ranges, rising to `633` metres at `Mount Dandenong`, approximately 35 km (22 mi) east of `Melbourne`, `Victoria`, `Australia`.
+The `Dandenong Ranges` (commonly just `The Dandenongs`) are a set of low mountain ranges, rising to `633` metres at `Mount Dandenong`, approximately 35 km (22 mi) east of `Melbourne`, `Victoria`, `Australia`.
 
 
 ## Macedon Ranges
-* The `Macedon Ranges` is a region in `Central Victoria`, known for its expansive native forests, vibrant arts scene, thriving food and wine industries (including weekly farmers' markets) and natural attractions such as `Hanging Rock` and `Mount Macedon`.
+
+The `Macedon Ranges` is a region in `Central Victoria`, known for its expansive native forests, vibrant arts scene, thriving food and wine industries (including weekly farmers' markets) and natural attractions such as `Hanging Rock` and `Mount Macedon`.
 
 
 ## Population
 
-* Over 5 million(19% of the population of Australia, as per 2020), mostly residing to the east side of the city centre, and its inhabitants are commonly referred to as "Melburnians".
+Over 5 million(19% of the population of Australia, as per 2020), mostly residing to the east side of the city centre, and its inhabitants are commonly referred to as "Melburnians".
 
 
 ## Landmarks
@@ -75,7 +67,6 @@ At the 2016 census, the most commonly nominated ancestries were
 * Irish(9.7%)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e6/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1120_Irish_Total_Responses.svg){: .align-center}
-{: .align-center}{: .align-center}
 
 * Chinese(8.5%)
 
@@ -97,6 +88,9 @@ At the 2016 census, the most commonly nominated ancestries were
 
 # CBD
 
+> The Melbourne central business district (also known colloquially as simply "The City" or "The CBD"[3]) is the city centre and main urban area of the city of Melbourne, Victoria, Australia, centred on the Hoddle Grid, the oldest part of the city laid out in 1837, and includes its fringes
+
+
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cbd-melbourne.png)
 
 
@@ -114,7 +108,8 @@ According to the 2016 census, the populations of the CBD ((the Level 2 statistic
 
 Over 2010-2017, 
 
-* Many sometimes very tall towers of small one and two bedroom apartments and studio-style student housing (with no carparks) have been built, greatly increasing the resident population of the CBD, including students. 
+* Many sometimes very tall towers of small one and two bedroom apartments and studio-style student housing (with no carparks) have been built, greatly increasing the resident population of the CBD, including students.
+
 * Many older buildings have been converted to loft-style apartments, and there are some older apartment buildings with larger more spacious units, with a relatively small amount of luxury housing.
 
 
