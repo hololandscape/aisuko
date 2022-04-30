@@ -127,8 +127,9 @@ It is bounded by the CityLink freeway to the west, Victoria Street to the south,
 
 ## Key words
 
-* working class area
-* some middle class pockets
+Working class area
+
+Some middle class pockets
 
 ## Status
 
@@ -138,7 +139,7 @@ The main shopping strip of Errol Street is located around the old North Melbourn
 
 ## Demographics(Data below source from year 2016)
 
-* Real estate is above the Melbourne median and the suburb remains an overwhelmingly middle-class community, weekly household income was $1236 lower than the national median $1438 (2016).
+Real estate is above the Melbourne median and the suburb remains an overwhelmingly middle-class community, weekly household income was $1236 lower than the national median $1438 (2016).
 
 * Strong migrant mix
   * Australia 41.7
