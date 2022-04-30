@@ -1,0 +1,148 @@
+---
+title: "Basic information of Melbourne"
+categories:
+  - Document
+  - Blog
+tags:
+  - English
+  - Location
+  - Melbourne
+  - Map
+toc: false
+toc_label: "Table of Contents"
+toc_icon: "cog"
+---
+
+
+
+“Someone has to start. Other people might not be cooperative, but that is not connected to you. My advice is this: You should start. With no regard to whether others are cooperative or not.” – Alfred Alder
+
+
+
+
+[Melbourne Map](https://www.google.com/maps/dir/''/RMIT+University+Melbourne+City+Campus,+124+La+Trobe+St,+Melbourne+VIC+3000,+Australia/@-37.8129592,144.9597195,14.44z/data=!4m14!4m13!1m5!1m1!1s0x0:0xed6e6acedcefb31c!2m2!1d144.9639386!2d-37.8083332!1m5!1m1!1s0x6ad642cb0a2ff0fb:0xed6e6acedcefb31c!2m2!1d144.9639386!2d-37.8083332!3e2?hl=en)
+
+
+# Basic information
+
+Melbourne is the capital of Australian state of Vitoria.
+
+The city occupies much of the northern and eastern coastlines of `Port Phillip Bay` and spreads into the `Mornington Perninsula` and the `hinterlands` towards tje `Yarra Valley` and the `Dandenong` and `Macedon Ranges`.
+
+
+## Port Phillip Bay
+
+* `Port Phillip` (`Kulin`: Naarm Naarm), or `Port Phillip Bay`, is a horsehead-shaped enclosed bay on the central coast of southern `Victoria`, `Australia`. 
+  * The `Kulin` languages are a group of closely related languages of the `Kulin` people, part of the `Kulinic` branch of `Pama–Nyungan`.
+
+![Port Phillip Bay](https://en.wikipedia.org/wiki/File:Australia_Victoria_relief_location_map.jpg)
+
+## Yarra Valley
+
+* The `Yarra Valley` is the region surrounding the `Yarra River` in `Victoria`, `Australia`.
+
+![Yarra Valley](https://en.wikipedia.org/wiki/File:Domain_Chandon_Yarra_Valley_aerial_panorama.jpg)
+
+
+## Dandenong
+
+* The `Dandenong Ranges` (commonly just `The Dandenongs`) are a set of low mountain ranges, rising to `633` metres at `Mount Dandenong`, approximately 35 km (22 mi) east of `Melbourne`, `Victoria`, `Australia`.
+
+![Dandenong](https://en.wikipedia.org/wiki/File:Australia_Victoria_relief_location_map.jpg)
+
+
+## Macedon Ranges
+* The `Macedon Ranges` is a region in `Central Victoria`, known for its expansive native forests, vibrant arts scene, thriving food and wine industries (including weekly farmers' markets) and natural attractions such as `Hanging Rock` and `Mount Macedon`.
+
+
+## Population
+
+* Over 5 million(19% of the population of Australia, as per 2020), mostly residing to the east side of the city centre, and its inhabitants are commonly referred to as "Melburnians".
+
+
+## Landmarks
+
+* Melbourne Cricket Ground
+
+[Melbourne Cricket Ground](https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground#/map/0)
+
+* National Gallery of Victoria
+
+[National Gallery of Victoria](https://en.wikipedia.org/wiki/National_Gallery_of_Victoria#/map/0)
+
+* World Heritage-listed 
+* Royal Exhibition Building
+
+
+## Demographics
+
+At the 2016 census, the most commonly nominated ancestries were
+
+* English
+  * 28%
+
+* Australian
+  * 26%
+
+* Irish
+  * 9.7%
+
+![](https://en.wikipedia.org/wiki/File:Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1120_Irish_Total_Responses.svg)
+
+* Chinese 
+  * 8.5%
+
+![Demographics of Melbourne](https://en.wikipedia.org/wiki/File:CN_born_Mel.png)
+
+* Scottish
+  * 7.8%
+
+![](https://en.wikipedia.org/wiki/File:Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1180_Scottish_Total_Responses.svg)
+
+* Italian
+  * 7.1%
+
+![](https://en.wikipedia.org/wiki/File:Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1126_Italian_Total_Responses.svg)
+
+* India
+  * 4.7%
+
+![](https://en.wikipedia.org/wiki/File:Australian_Census_2011_demographic_map_-_Inner_Sydney_by_POA_-_BCP_field_1114_Indian_Total_Responses.svg)
+
+
+
+# CBD
+
+![CBD](https://maps.wikimedia.org/img/osm-intl,11,a,a,260x280@2x.png?lang=en&domain=en.wikipedia.org&title=Melbourne+central+business+district&groups=_61ac0009bf841659e84ce2a9c3b0708a4bcca0f1)
+
+
+## Demographics
+
+According to the 2016 census, the populations of the CBD ((the Level 2 statistical area of Melbourne)) 37,321 residents, about half of which were overseas students.
+
+* 4.3% were born in Australia
+* 24.9% were born in China
+* Malaysia 8.3%
+* India 6.2%
+* Indonesia 4.5%
+* South Korea 4.0%
+
+
+Over 2010-2017, 
+
+* Many sometimes very tall towers of small one and two bedroom apartments and studio-style student housing (with no carparks) have been built, greatly increasing the resident population of the CBD, including students. 
+* Many older buildings have been converted to loft-style apartments, and there are some older apartment buildings with larger more spacious units, with a relatively small amount of luxury housing.
+
+
+## Transport
+
+The Melbourne central business district is the transport hub of the city.
+
+
+
+# Reference list
+
+* https://en.wikipedia.org/wiki/Port_Phillip
+* https://en.wikipedia.org/wiki/Yarra_Valley
+* https://en.wikipedia.org/wiki/Mornington_Peninsula
+* https://en.wikipedia.org/wiki/Melbourne_central_business_district
