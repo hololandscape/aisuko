@@ -117,32 +117,33 @@ Over 2010-2017,
 
 The `Melbourne central business district` is the transport hub of the city.
 
-# North Melbourne
+
+# North Melbourne, Victoria
 
 `North Melbourne` is an inner suburb of `Melbourne`, `Australia`, 3 km north-west of Melbourne's `Central Business District`. Its local government area is the City of `Melbourne`. At the 2016 Census, `North Melbourne` had a population of 14,940.
+
+![](https://upload.wikimedia.org/wikipedia/en/a/af/North_melbourne_from_the_air.jpg){: .align-center}
 
 ## Boundary
 
 It is bounded by the CityLink freeway to the west, Victoria Street to the south, O'Connell and Peel Streets to the east and Flemington Road to the north
 
-## Key words
+## Status
 
 Working class area
 
 Some middle class pockets
 
-## Status
+The main shopping strip of Errol Street is located around the old North Melbourne Town Hall.
 
 Today it continues to undergo gentrification, noted for its Victorian architecture, cosmopolitan demographic, commercial and older industrial areas.
-
-The main shopping strip of Errol Street is located around the old North Melbourne Town Hall.
 
 ## Demographics(Data below source from year 2016)
 
 Real estate is above the Melbourne median and the suburb remains an overwhelmingly middle-class community, weekly household income was $1236 lower than the national median $1438 (2016).
 
 * Strong migrant mix
-  * Australia 41.7
+  * Australia 41.7%
   * China 13.5%
   * Malaysia 2.9%
   * Vietnam 2.4%
@@ -170,6 +171,43 @@ Real estate is above the Melbourne median and the suburb remains an overwhelming
     * 57-West Maribyrnong to Flinders Street station
     * 58-West Coburg to Toorak
     * 59-Airport West to Flinders Street station
+
+
+# South Melbourne, Victoria
+
+`South Melbourne` is an inner suburb of `Melbourne`, `Australia`, 3 km south of Melbourne's `Central Business District` (CBD). It is in the local government area of the `City of Port Phillip`. At the 2016 census, `South Melbourne` had a population of 10,920.
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/00/South_Melbourne_201708.jpg){: .align-center}
+
+## Boundary
+
+Complex
+
+## Status
+
+One of Melbourne's oldest suburban areas, notable for its well preserved Victorian era streetscapes.
+
+## Demographics(Data below source from year 2016)
+
+* Migration
+  * Australia 55.5%
+  * England 4.8%
+  * China 3.0%
+  * New Zealand 2.8%
+  * India 1.5%
+  * Malaysia 1.4%
+
+* Religion
+  * Most common was "No Religion 40.7%" and Catholic "17.3%"
+
+* Transport
+  * Tram routes
+    * 1
+    * 12
+    * 58
+    * 96
+    * 112
+    * 8
 
 
 
