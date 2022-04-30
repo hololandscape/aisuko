@@ -117,6 +117,59 @@ Over 2010-2017,
 
 The `Melbourne central business district` is the transport hub of the city.
 
+# North Melbourne
+
+`North Melbourne` is an inner suburb of `Melbourne`, `Australia`, 3 km north-west of Melbourne's `Central Business District`. Its local government area is the City of `Melbourne`. At the 2016 Census, `North Melbourne` had a population of 14,940.
+
+## Boundary
+
+It is bounded by the CityLink freeway to the west, Victoria Street to the south, O'Connell and Peel Streets to the east and Flemington Road to the north
+
+## Key words
+
+* working class area
+* some middle class pockets
+
+## Status
+
+Today it continues to undergo gentrification, noted for its Victorian architecture, cosmopolitan demographic, commercial and older industrial areas.
+
+The main shopping strip of Errol Street is located around the old North Melbourne Town Hall.
+
+## Demographics(Data below source from year 2016)
+
+* Real estate is above the Melbourne median and the suburb remains an overwhelmingly middle-class community, weekly household income was $1236 lower than the national median $1438 (2016).
+
+* Strong migrant mix
+  * Australia 41.7
+  * China 13.5%
+  * Malaysia 2.9%
+  * Vietnam 2.4%
+  * England 2.3%
+  * New Zealand 2.2%
+
+* Popular destination for low income families for decades
+  * refugees from (Somalia, Eritrea)
+    * live around the government-owned housing estates near the Melrose Street area, on the suburb's fringe
+
+* Age
+  * Younger than most other areas, median age was 28(national median age of 38)
+  * Children aged under 15 years made up 10.5%
+  * Aged 65 over made up just 7.1% of the population
+
+* Religion
+  * Most common was "No Religion" and accounted for 46.6%
+
+* Transport
+  * Major roads include Flemington Road, Elizabeth Street and Victoria Street
+  * Two railway stations
+    * Flemington Bridge
+    * Macaulay
+  * Tram routes
+    * 57-West Maribyrnong to Flinders Street station
+    * 58-West Coburg to Toorak
+    * 59-Airport West to Flinders Street station
+
 
 
 # Reference list
@@ -125,3 +178,4 @@ The `Melbourne central business district` is the transport hub of the city.
 * https://en.wikipedia.org/wiki/Yarra_Valley
 * https://en.wikipedia.org/wiki/Mornington_Peninsula
 * https://en.wikipedia.org/wiki/Melbourne_central_business_district
+* https://en.wikipedia.org/wiki/North_Melbourne,_Victoria
