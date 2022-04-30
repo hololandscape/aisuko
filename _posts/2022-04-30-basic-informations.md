@@ -35,20 +35,18 @@ The city occupies much of the northern and eastern coastlines of `Port Phillip B
 * `Port Phillip` (`Kulin`: Naarm Naarm), or `Port Phillip Bay`, is a horsehead-shaped enclosed bay on the central coast of southern `Victoria`, `Australia`. 
   * The `Kulin` languages are a group of closely related languages of the `Kulin` people, part of the `Kulinic` branch of `Pama–Nyungan`.
 
-![Port Phillip Bay](https://en.wikipedia.org/wiki/File:Australia_Victoria_relief_location_map.jpg)
+![Port Phillip Bay](https://upload.wikimedia.org/wikipedia/commons/f/f1/Portphillip.gif){: .align-center}
 
 ## Yarra Valley
 
 * The `Yarra Valley` is the region surrounding the `Yarra River` in `Victoria`, `Australia`.
 
-![Yarra Valley](https://en.wikipedia.org/wiki/File:Domain_Chandon_Yarra_Valley_aerial_panorama.jpg)
+![Yarra Valley](https://upload.wikimedia.org/wikipedia/commons/7/7b/Domain_Chandon_Yarra_Valley_aerial_panorama.jpg){: .align-center}
 
 
 ## Dandenong
 
 * The `Dandenong Ranges` (commonly just `The Dandenongs`) are a set of low mountain ranges, rising to `633` metres at `Mount Dandenong`, approximately 35 km (22 mi) east of `Melbourne`, `Victoria`, `Australia`.
-
-![Dandenong](https://en.wikipedia.org/wiki/File:Australia_Victoria_relief_location_map.jpg)
 
 
 ## Macedon Ranges
@@ -62,14 +60,8 @@ The city occupies much of the northern and eastern coastlines of `Port Phillip B
 
 ## Landmarks
 
-* Melbourne Cricket Ground
-
-[Melbourne Cricket Ground](https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground#/map/0)
-
-* National Gallery of Victoria
-
-[National Gallery of Victoria](https://en.wikipedia.org/wiki/National_Gallery_of_Victoria#/map/0)
-
+* [Melbourne Cricket Ground](https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground#/map/0)
+* [National Gallery of Victoria](https://en.wikipedia.org/wiki/National_Gallery_of_Victoria#/map/0)
 * World Heritage-listed 
 * Royal Exhibition Building
 
@@ -78,42 +70,34 @@ The city occupies much of the northern and eastern coastlines of `Port Phillip B
 
 At the 2016 census, the most commonly nominated ancestries were
 
-* English
-  * 28%
+* English(28%)
+* Australian(26%)
+* Irish(9.7%)
 
-* Australian
-  * 26%
+![](https://upload.wikimedia.org/wikipedia/commons/e/e6/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1120_Irish_Total_Responses.svg){: .align-center}
+{: .align-center}{: .align-center}
 
-* Irish
-  * 9.7%
+* Chinese(8.5%)
 
-![](https://en.wikipedia.org/wiki/File:Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1120_Irish_Total_Responses.svg)
+![Demographics of Melbourne](https://upload.wikimedia.org/wikipedia/commons/1/1a/CN_born_Mel.png){: .align-center}
 
-* Chinese 
-  * 8.5%
+* Scottish(7.8%)
 
-![Demographics of Melbourne](https://en.wikipedia.org/wiki/File:CN_born_Mel.png)
+![](https://upload.wikimedia.org/wikipedia/commons/4/47/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1180_Scottish_Total_Responses.svg){: .align-center}
 
-* Scottish
-  * 7.8%
+* Italian(7.1%)
 
-![](https://en.wikipedia.org/wiki/File:Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1180_Scottish_Total_Responses.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/11/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1126_Italian_Total_Responses.svg){: .align-center}
 
-* Italian
-  * 7.1%
+* India(4.7%)
 
-![](https://en.wikipedia.org/wiki/File:Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1126_Italian_Total_Responses.svg)
-
-* India
-  * 4.7%
-
-![](https://en.wikipedia.org/wiki/File:Australian_Census_2011_demographic_map_-_Inner_Sydney_by_POA_-_BCP_field_1114_Indian_Total_Responses.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e4/Australian_Census_2011_demographic_map_-_Inner_Sydney_by_POA_-_BCP_field_1114_Indian_Total_Responses.svg){: .align-center}
 
 
 
 # CBD
 
-![CBD](https://maps.wikimedia.org/img/osm-intl,11,a,a,260x280@2x.png?lang=en&domain=en.wikipedia.org&title=Melbourne+central+business+district&groups=_61ac0009bf841659e84ce2a9c3b0708a4bcca0f1)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cbd-melbourne.png)
 
 
 ## Demographics
@@ -136,7 +120,7 @@ Over 2010-2017,
 
 ## Transport
 
-The Melbourne central business district is the transport hub of the city.
+The `Melbourne central business district` is the transport hub of the city.
 
 
 
