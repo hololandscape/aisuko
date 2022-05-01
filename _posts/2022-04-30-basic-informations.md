@@ -60,9 +60,7 @@ Over 5 million(19% of the population of Australia, as per 2020), mostly residing
 
 ## Demographics
 
-> These pictures belows show is the popular regions for Melbourne's multiples community.
-
-At the 2016 census, the most commonly nominated ancestries were,
+> These pictures belows show is the popular regions for Melbourne's multiples community, and all the resources from liveinmelbourne below
 
 
 * English(28%)
@@ -329,5 +327,4 @@ All the pictures are source from the Wikipedia and the link list on below.
 * https://en.wikipedia.org/wiki/South_Melbourne,_Victoria
 * https://en.wikipedia.org/wiki/West_Melbourne,_Victoria
 * https://en.wikipedia.org/wiki/East_Melbourne,_Victoria
-* https://liveinmelbourne.vic.gov.au/discover/multicultural-communities/indian
 * https://liveinmelbourne.vic.gov.au/discover/multicultural-communities
