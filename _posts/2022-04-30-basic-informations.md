@@ -168,9 +168,9 @@ Real estate is above the Melbourne median and the suburb remains an overwhelming
     * Flemington Bridge
     * Macaulay
   * Tram routes
-    * 57-West Maribyrnong to Flinders Street station
-    * 58-West Coburg to Toorak
-    * 59-Airport West to Flinders Street station
+    * No.57: West Maribyrnong - Flinders Street station
+    * No.58: West Coburg - Toorak
+    * No.59: Airport West - Flinders Street station
 
 
 # South Melbourne, Victoria
@@ -189,19 +189,19 @@ One of Melbourne's oldest suburban areas, notable for its well preserved Victori
 
 ## Demographics(Data below source from year 2016)
 
-Population
- * Australia 55.5%
- * England 4.8%
- * China 3.0%
- * New Zealand 2.8%
- * India 1.5%
- * Malaysia 1.4%
+* Population
+  * Australia 55.5%
+  * England 4.8%
+  * China 3.0%
+  * New Zealand 2.8%
+  * India 1.5%
+  * Malaysia 1.4%
 
-Religion
- * Most common was "No Religion 40.7%" and "Catholic 17.3%"
+* Religion
+  * Most common was "No Religion 40.7%" and "Catholic 17.3%"
 
-Transport
- * Tram routes
+* Transport
+  * Tram routes
     * No.1, No.12, No.58, No.96
     * No.112, No.8-City of Port Phillip to City of Stonnington
 
@@ -246,20 +246,23 @@ There were 5515 in West Melbourne,
 * Malaysia 3.7%
 * New Zealand 2.6%
 
-Religion
-* Most common response for religion was No Religion at 44.8%.
+* Religion
+  * Most common response for religion was No Religion at 44.8%.
 
-Transport
+* Transport
 
 > North Melbourne railway station is actually located in West Melbourne, opposite the Railway Hotel on `Ireland Street`.
 
-* 401 North Melbourne - University of Melbourne via Royal Melbourne Hospital(Monday to Friday)
-* 200 bus between Sunshine and Gardenvale passes along Dudley St.
+  * Railway
+    * 401 North Melbourne - University of Melbourne via Royal Melbourne Hospital(Monday to Friday)
+  
+  * Bus
+    * 200 bus between Sunshine and Gardenvale passes along Dudley St.
 
-* Tram routes
-  * No.57(Victoria Street): West Maribyrnong - Flinders St
-  * No.58(Peel/William Street): Toorak - West Coburg
-  * No.35(La Trobe Street): City Circle - no.30 St Vincent's plaza - Docklands lines
+  * Tram routes
+    * No.57(Victoria Street): West Maribyrnong - Flinders St
+    * No.58(Peel/William Street): Toorak - West Coburg
+    * No.35(La Trobe Street): City Circle - no.30 St Vincent's plaza - Docklands lines
 
 
 
