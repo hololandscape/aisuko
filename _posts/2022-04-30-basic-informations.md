@@ -152,25 +152,28 @@ Real estate is above the Melbourne median and the suburb remains an overwhelming
 
 * Popular destination for low income families for decades
   * refugees from (Somalia, Eritrea)
-    * live around the government-owned housing estates near the Melrose Street area, on the suburb's fringe
+    * live around the government-owned housing estates near the `Melrose Street` area, on the suburb's fringe
 
-* Age
-  * Younger than most other areas, median age was 28(national median age of 38)
-  * Children aged under 15 years made up 10.5%
-  * Aged 65 over made up just 7.1% of the population
+## Age
 
-* Religion
-  * Most common was "No Religion" and accounted for 46.6%
+* Younger than most other areas, median age was 28(national median age of 38)
+* Children aged under 15 years made up 10.5%
+* Aged 65 over made up just 7.1% of the population
 
-* Transport
-  * Major roads include Flemington Road, Elizabeth Street and Victoria Street
-  * Two railway stations
-    * Flemington Bridge
-    * Macaulay
-  * Tram routes
-    * No.57: West Maribyrnong - Flinders Street station
-    * No.58: West Coburg - Toorak
-    * No.59: Airport West - Flinders Street station
+## Religion
+Most common was "No Religion" and accounted for 46.6%
+
+## Transport
+
+Major roads include Flemington Road, Elizabeth Street and Victoria Street
+
+* Two railway stations
+  * Flemington Bridge
+  * Macaulay
+* Tram routes
+  * No.57: West Maribyrnong - Flinders Street station
+  * No.58: West Coburg - Toorak
+  * No.59: Airport West - Flinders Street station
 
 
 # South Melbourne, Victoria
@@ -189,21 +192,23 @@ One of Melbourne's oldest suburban areas, notable for its well preserved Victori
 
 ## Demographics(Data below source from year 2016)
 
-* Population
-  * Australia 55.5%
-  * England 4.8%
-  * China 3.0%
-  * New Zealand 2.8%
-  * India 1.5%
-  * Malaysia 1.4%
+Population
+ * Australia 55.5%
+ * England 4.8%
+ * China 3.0%
+ * New Zealand 2.8%
+ * India 1.5%
+ * Malaysia 1.4%
 
-* Religion
-  * Most common was "No Religion 40.7%" and "Catholic 17.3%"
+## Religion
 
-* Transport
-  * Tram routes
-    * No.1, No.12, No.58, No.96
-    * No.112, No.8-City of Port Phillip to City of Stonnington
+Most common was "No Religion 40.7%" and "Catholic 17.3%"
+
+## Transport
+
+Tram routes
+  * No.1, No.12, No.58, No.96
+  * No.112, No.8-City of Port Phillip to City of Stonnington
 
 
 # West Melbourne, Victoria
@@ -246,26 +251,64 @@ There were 5515 in West Melbourne,
 * Malaysia 3.7%
 * New Zealand 2.6%
 
-* Religion
-  * Most common response for religion was No Religion at 44.8%.
+## Religion
 
-* Transport
+Most common response for religion was No Religion at 44.8%.
+
+## Transport
 
 > North Melbourne railway station is actually located in West Melbourne, opposite the Railway Hotel on `Ireland Street`.
 
-  * Railway
-    * 401 North Melbourne - University of Melbourne via Royal Melbourne Hospital(Monday to Friday)
+* Railway
+  * 401 North Melbourne - University of Melbourne via Royal Melbourne Hospital(Monday to Friday)
   
-  * Bus
-    * 200 bus between Sunshine and Gardenvale passes along Dudley St.
+* Bus
+  * 200 bus between Sunshine and Gardenvale passes along Dudley St.
 
-  * Tram routes
-    * No.57(Victoria Street): West Maribyrnong - Flinders St
-    * No.58(Peel/William Street): Toorak - West Coburg
-    * No.35(La Trobe Street): City Circle - no.30 St Vincent's plaza - Docklands lines
+* Tram routes
+  * No.57(Victoria Street): West Maribyrnong - Flinders St
+  * No.58(Peel/William Street): Toorak - West Coburg
+  * No.35(La Trobe Street): City Circle - no.30 St Vincent's plaza - Docklands lines
 
 
+# East Melbourne, Victoria
 
+`East Melbourne` is an inner suburb of Melbourne, Australia, 2 km east of Melbourne's `central business district`. Its local government area is the `City of Melbourne`.
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/66/Queens_Bess.jpg)
+
+## Boundary
+
+East Melbourne is a small area of inner Melbourne, located between `Richmond` and the `Melbourne Central Business District`, it is bounded by Spring Street, Victoria Parade, Punt road/Hoddle Street and Brunton Avenue.
+
+
+## Status
+
+## Demographics(Data source from 2016 Census)
+
+East Melbourne had a population of 4,964,
+* Australia 62.8%
+* England 4.2%
+* New Zealand 3.0%
+
+## Religion
+
+The most common responses for religion were No Religion 42.8% and Catholic 18.3%.
+
+## Transport
+
+East Melbourne is served by major tramlines on `Wellington Parade` and `Victoria Parade`, both connecting with the CBD in the western edge of the suburb.
+
+* Tramlines
+  * `Wellington Parade`
+  * `Victoria Parade`
+
+* Rail
+  * Parliament underground station(`Spring Street`, part of the City Loop that runs underneath Melbourne)
+  * Jolimont: on the `Hursbridge` and `Mernda lines`
+
+
+All the pictures are source from the Wikipedia and the link list on below.
 
 # Reference list
 
@@ -276,3 +319,4 @@ There were 5515 in West Melbourne,
 * https://en.wikipedia.org/wiki/North_Melbourne,_Victoria
 * https://en.wikipedia.org/wiki/South_Melbourne,_Victoria
 * https://en.wikipedia.org/wiki/West_Melbourne,_Victoria
+* https://en.wikipedia.org/wiki/East_Melbourne,_Victoria
