@@ -60,9 +60,18 @@ Over 5 million(19% of the population of Australia, as per 2020), mostly residing
 
 ## Demographics
 
-At the 2016 census, the most commonly nominated ancestries were
+> These pictures belows show is the popular regions for Melbourne's multiples community.
+
+At the 2016 census, the most commonly nominated ancestries were,
+
 
 * English(28%)
+
+American and British
+
+![Demographics of USA]({{site.url}}{{site.baseurl}}/assets/images/popular_usa_community.png){: .align-center}
+![Demographics of British]({{site.url}}{{site.baseurl}}/assets/images/popular_british_community.png){: .align-center}
+
 * Australian(26%)
 * Irish(9.7%)
 
@@ -70,7 +79,7 @@ At the 2016 census, the most commonly nominated ancestries were
 
 * Chinese(8.5%)
 
-![Demographics of Melbourne](https://upload.wikimedia.org/wikipedia/commons/1/1a/CN_born_Mel.png){: .align-center}
+![Demographics of Chinese]({{site.url}}{{site.baseurl}}/assets/images/popular_chinese_community.png){: .align-center}
 
 * Scottish(7.8%)
 
@@ -78,11 +87,11 @@ At the 2016 census, the most commonly nominated ancestries were
 
 * Italian(7.1%)
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/11/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1126_Italian_Total_Responses.svg){: .align-center}
+![]({{ site.url }}{{ site.baseurl }}/assets/images/popular_itilian_community.png){: .align-center}
 
 * India(4.7%)
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e4/Australian_Census_2011_demographic_map_-_Inner_Sydney_by_POA_-_BCP_field_1114_Indian_Total_Responses.svg){: .align-center}
+![Demographics of India]({{ site.url }}{{ site.baseurl }}/assets/images/popular_india_community.png){: .align-center}
 
 
 
@@ -320,3 +329,5 @@ All the pictures are source from the Wikipedia and the link list on below.
 * https://en.wikipedia.org/wiki/South_Melbourne,_Victoria
 * https://en.wikipedia.org/wiki/West_Melbourne,_Victoria
 * https://en.wikipedia.org/wiki/East_Melbourne,_Victoria
+* https://liveinmelbourne.vic.gov.au/discover/multicultural-communities/indian
+* https://liveinmelbourne.vic.gov.au/discover/multicultural-communities
