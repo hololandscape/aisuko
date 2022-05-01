@@ -198,16 +198,14 @@ One of Melbourne's oldest suburban areas, notable for its well preserved Victori
   * Malaysia 1.4%
 
 * Religion
-  * Most common was "No Religion 40.7%" and Catholic "17.3%"
+  * Most common was "No Religion 40.7%" and "Catholic 17.3%"
 
 * Transport
   * Tram routes
-    * 1
-    * 12
-    * 58
-    * 96
-    * 112
-    * 8
+    * 1,12,58,96
+    * 112,8-City of Port Phillip to City of Stonnington
+
+
 
 
 
