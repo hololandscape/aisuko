@@ -189,22 +189,77 @@ One of Melbourne's oldest suburban areas, notable for its well preserved Victori
 
 ## Demographics(Data below source from year 2016)
 
-* Migration
-  * Australia 55.5%
-  * England 4.8%
-  * China 3.0%
-  * New Zealand 2.8%
-  * India 1.5%
-  * Malaysia 1.4%
+Population
+ * Australia 55.5%
+ * England 4.8%
+ * China 3.0%
+ * New Zealand 2.8%
+ * India 1.5%
+ * Malaysia 1.4%
 
-* Religion
-  * Most common was "No Religion 40.7%" and "Catholic 17.3%"
+Religion
+ * Most common was "No Religion 40.7%" and "Catholic 17.3%"
 
-* Transport
-  * Tram routes
-    * 1,12,58,96
-    * 112,8-City of Port Phillip to City of Stonnington
+Transport
+ * Tram routes
+    * No.1, No.12, No.58, No.96
+    * No.112, No.8-City of Port Phillip to City of Stonnington
 
+
+# West Melbourne, Victoria
+
+`West Melbourne` is an inner suburb of `Melbourne`, `Australia`, 2 km north-west of and adjacent to `Melbourne's Central Business District`. Its local government area is the City of Melbourne. At the 2016 census, West Melbourne had a population of `5,515`.
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/eb/St_Mary%27s_Star_of_the_Sea.JPG)
+Source:https://en.wikipedia.org/wiki/File:St_Mary%27s_Star_of_the_Sea.JPG
+
+## Boundary
+
+It's bounded by `Victoria Street` and the `Sunbury/Werribee` railway line in the north, `Footscray Road`, the `Moonee Ponds Creek`; and by `La Trobe Street` in the south.
+
+`Peel Street` and the `Flagstaff Gardens` help form the eastern boundary.
+
+The western boundary defined by the `Maribyrnong River` and `Coode Island`, a locality of West Melbourne.
+
+
+## Status
+
+It's the home to `Victoria's` largest toxic chemical storage facility.
+
+Being originally largely an industrial area, a significant portion of `West Melbourne` is occupied by the `Port of Melbourne`, the `Dynon Railway Yards` and the `Melbourne Markets`.
+
+These include the:
+* Wholesale Fruit
+* Vegetable
+* Fish Markets
+* National Flower Centre
+ 
+It also contains an increasing number of residential and commercial properties, consisting of a mixture of Victorian single and double storey terrace houses and converted warehouses at the north-west corner of the Melbourne CBD.
+
+## Demographics(Data source from 2016 Census)
+
+There were 5515 in West Melbourne,
+* Australia 42.3%
+* China 7.4%
+* India 4.9%
+* South Korea 4.5%
+* Malaysia 3.7%
+* New Zealand 2.6%
+
+Religion
+* Most common response for religion was No Religion at 44.8%.
+
+Transport
+
+> North Melbourne railway station is actually located in West Melbourne, opposite the Railway Hotel on `Ireland Street`.
+
+* 401 North Melbourne - University of Melbourne via Royal Melbourne Hospital(Monday to Friday)
+* 200 bus between Sunshine and Gardenvale passes along Dudley St.
+
+* Tram routes
+  * No.57(Victoria Street): West Maribyrnong - Flinders St
+  * No.58(Peel/William Street): Toorak - West Coburg
+  * No.35(La Trobe Street): City Circle - no.30 St Vincent's plaza - Docklands lines
 
 
 
@@ -216,3 +271,5 @@ One of Melbourne's oldest suburban areas, notable for its well preserved Victori
 * https://en.wikipedia.org/wiki/Mornington_Peninsula
 * https://en.wikipedia.org/wiki/Melbourne_central_business_district
 * https://en.wikipedia.org/wiki/North_Melbourne,_Victoria
+* https://en.wikipedia.org/wiki/South_Melbourne,_Victoria
+* https://en.wikipedia.org/wiki/West_Melbourne,_Victoria
