@@ -1,5 +1,5 @@
 ---
-title: "Melbourne"
+title: "Melbourne, Victoria"
 categories:
   - Document
   - Blog
@@ -7,6 +7,7 @@ tags:
   - English
   - Location
   - Melbourne
+  - Victoria
   - Map
 toc: true
 toc_label: "Table of Contents"
@@ -16,7 +17,7 @@ toc_icon: "cog"
 
 # Basic information
 
-* Melbourne is the capital of Australian state of Vitoria.
+* Melbourne is the capital of Australian state of Victoria.
 
 * The city occupies much of the northern and eastern coastlines of `Port Phillip Bay` and spreads into the `Mornington Perninsula` and the `hinterlands` towards tje `Yarra Valley` and the `Dandenong` and `Macedon Ranges`.
 
