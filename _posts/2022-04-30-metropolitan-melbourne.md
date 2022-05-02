@@ -19,29 +19,30 @@ toc_icon: "cog"
 
 When we talk about Melbourne as a city, we're talking about `metropolitan Melbourne`. Also known as `Greater Melbourne`, `metropolitan Melbourne` is the geographical area that defines Melbourne as a city and the capital of the state of Victoria.
 
-* The city occupies much of the northern and eastern coastlines of `Port Phillip Bay` and spreads into the `Mornington Perninsula` and the `hinterlands` towards tje `Yarra Valley` and the `Dandenong` and `Macedon Ranges`.
+The city occupies much of the northern and eastern coastlines of `Port Phillip Bay` and spreads into the `Mornington Perninsula` and the `hinterlands` towards tje `Yarra Valley` and the `Dandenong` and `Macedon Ranges`.
 
+## Areas
 
-## Port Phillip Bay
+### Port Phillip Bay
 
 `Port Phillip` or `Port Phillip Bay`, is a horsehead-shaped enclosed bay on the central coast of southern `Victoria`, `Australia`. 
 
 
 ![Port Phillip Bay](https://upload.wikimedia.org/wikipedia/commons/f/f1/Portphillip.gif){: .align-center}
 
-## Yarra Valley
+### Yarra Valley
 
 The `Yarra Valley` is the region surrounding the `Yarra River` in `Victoria`, `Australia`.
 
 ![Yarra Valley](https://upload.wikimedia.org/wikipedia/commons/7/7b/Domain_Chandon_Yarra_Valley_aerial_panorama.jpg){: .align-center}
 
 
-## Dandenong
+### Dandenong
 
 The `Dandenong Ranges` (commonly just `The Dandenongs`) are a set of low mountain ranges, rising to `633` metres at `Mount Dandenong`, approximately 35 km (22 mi) east of `Melbourne`, `Victoria`, `Australia`.
 
 
-## Macedon Ranges
+### Macedon Ranges
 
 The `Macedon Ranges` is a region in `Central Victoria`, known for its expansive native forests, vibrant arts scene, thriving food and wine industries (including weekly farmers' markets) and natural attractions such as `Hanging Rock` and `Mount Macedon`.
 
@@ -64,37 +65,37 @@ Over 5 million(19% of the population of Australia, as per 2020), mostly residing
 > These pictures belows show is the popular regions for Melbourne's multiples community, and all the resources from liveinmelbourne below
 
 
-* English(28%)
+### English(28%)
 
 American and British
 
 ![Demographics of USA]({{site.url}}{{site.baseurl}}/assets/images/popular_usa_community.png){: .align-center}
 ![Demographics of British]({{site.url}}{{site.baseurl}}/assets/images/popular_british_community.png){: .align-center}
 
-* Australian(26%)
-* Irish(9.7%)
+### Australian(26%)
+### Irish(9.7%)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e6/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1120_Irish_Total_Responses.svg){: .align-center}
 
-* Chinese(8.5%)
+### Chinese(8.5%)
 
 ![Demographics of Chinese]({{site.url}}{{site.baseurl}}/assets/images/popular_chinese_community.png){: .align-center}
 
-* Scottish(7.8%)
+### Scottish(7.8%)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/47/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_1180_Scottish_Total_Responses.svg){: .align-center}
 
-* Italian(7.1%)
+### Italian(7.1%)
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/popular_itilian_community.png){: .align-center}
 
-* India(4.7%)
+### India(4.7%)
 
 ![Demographics of India]({{ site.url }}{{ site.baseurl }}/assets/images/popular_india_community.png){: .align-center}
 
 
 
-# CBD
+## CBD
 
 > The Melbourne central business district (also known colloquially as simply "The City" or "The CBD"[3]) is the city centre and main urban area of the city of Melbourne, Victoria, Australia, centred on the Hoddle Grid, the oldest part of the city laid out in 1837, and includes its fringes
 
@@ -102,7 +103,7 @@ American and British
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/cbd-melbourne.png)
 
 
-## Demographics
+### Demographics
 
 According to the 2016 census, the populations of the CBD ((the Level 2 statistical area of Melbourne)) 37,321 residents, about half of which were overseas students.
 
@@ -121,22 +122,22 @@ Over 2010-2017,
 * Many older buildings have been converted to loft-style apartments, and there are some older apartment buildings with larger more spacious units, with a relatively small amount of luxury housing.
 
 
-## Transport
+### Transport
 
 The `Melbourne central business district` is the transport hub of the city.
 
 
-# North Melbourne, Victoria
+## North Melbourne, Victoria
 
 `North Melbourne` is an inner suburb of `Melbourne`, `Australia`, 3 km north-west of Melbourne's `Central Business District`. Its local government area is the City of `Melbourne`. At the 2016 Census, `North Melbourne` had a population of 14,940.
 
 ![](https://upload.wikimedia.org/wikipedia/en/a/af/North_melbourne_from_the_air.jpg){: .align-center}
 
-## Boundary
+### Boundary
 
 It is bounded by the CityLink freeway to the west, Victoria Street to the south, O'Connell and Peel Streets to the east and Flemington Road to the north
 
-## Status
+### Status
 
 Working class area
 
@@ -146,7 +147,7 @@ The main shopping strip of Errol Street is located around the old North Melbourn
 
 Today it continues to undergo gentrification, noted for its Victorian architecture, cosmopolitan demographic, commercial and older industrial areas.
 
-## Demographics(Data below source from year 2016)
+### Demographics(Data below source from year 2016)
 
 Real estate is above the Melbourne median and the suburb remains an overwhelmingly middle-class community, weekly household income was $1236 lower than the national median $1438 (2016).
 
@@ -162,16 +163,16 @@ Real estate is above the Melbourne median and the suburb remains an overwhelming
   * refugees from (Somalia, Eritrea)
     * live around the government-owned housing estates near the `Melrose Street` area, on the suburb's fringe
 
-## Age
+#### Age
 
 * Younger than most other areas, median age was 28(national median age of 38)
 * Children aged under 15 years made up 10.5%
 * Aged 65 over made up just 7.1% of the population
 
-## Religion
+### Religion
 Most common was "No Religion" and accounted for 46.6%
 
-## Transport
+### Transport
 
 Major roads include Flemington Road, Elizabeth Street and Victoria Street
 
@@ -184,21 +185,21 @@ Major roads include Flemington Road, Elizabeth Street and Victoria Street
   * No.59: Airport West - Flinders Street station
 
 
-# South Melbourne, Victoria
+## South Melbourne, Victoria
 
 `South Melbourne` is an inner suburb of `Melbourne`, `Australia`, 3 km south of Melbourne's `Central Business District` (CBD). It is in the local government area of the `City of Port Phillip`. At the 2016 census, `South Melbourne` had a population of 10,920.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/00/South_Melbourne_201708.jpg){: .align-center}
 
-## Boundary
+### Boundary
 
 Complex
 
-## Status
+### Status
 
 One of Melbourne's oldest suburban areas, notable for its well preserved Victorian era streetscapes.
 
-## Demographics(Data below source from year 2016)
+### Demographics(Data below source from year 2016)
 
 Population
  * Australia 55.5%
@@ -208,25 +209,25 @@ Population
  * India 1.5%
  * Malaysia 1.4%
 
-## Religion
+### Religion
 
 Most common was "No Religion 40.7%" and "Catholic 17.3%"
 
-## Transport
+### Transport
 
 Tram routes
   * No.1, No.12, No.58, No.96
   * No.112, No.8-City of Port Phillip to City of Stonnington
 
 
-# West Melbourne, Victoria
+## West Melbourne, Victoria
 
 `West Melbourne` is an inner suburb of `Melbourne`, `Australia`, 2 km north-west of and adjacent to `Melbourne's Central Business District`. Its local government area is the City of Melbourne. At the 2016 census, West Melbourne had a population of `5,515`.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/eb/St_Mary%27s_Star_of_the_Sea.JPG)
 Source:https://en.wikipedia.org/wiki/File:St_Mary%27s_Star_of_the_Sea.JPG
 
-## Boundary
+### Boundary
 
 It's bounded by `Victoria Street` and the `Sunbury/Werribee` railway line in the north, `Footscray Road`, the `Moonee Ponds Creek`; and by `La Trobe Street` in the south.
 
@@ -235,7 +236,7 @@ It's bounded by `Victoria Street` and the `Sunbury/Werribee` railway line in the
 The western boundary defined by the `Maribyrnong River` and `Coode Island`, a locality of West Melbourne.
 
 
-## Status
+### Status
 
 It's the home to `Victoria's` largest toxic chemical storage facility.
 
@@ -249,7 +250,7 @@ These include the:
  
 It also contains an increasing number of residential and commercial properties, consisting of a mixture of Victorian single and double storey terrace houses and converted warehouses at the north-west corner of the Melbourne CBD.
 
-## Demographics(Data source from 2016 Census)
+### Demographics(Data source from 2016 Census)
 
 There were 5515 in West Melbourne,
 * Australia 42.3%
@@ -259,11 +260,11 @@ There were 5515 in West Melbourne,
 * Malaysia 3.7%
 * New Zealand 2.6%
 
-## Religion
+### Religion
 
 Most common response for religion was No Religion at 44.8%.
 
-## Transport
+### Transport
 
 > North Melbourne railway station is actually located in West Melbourne, opposite the Railway Hotel on `Ireland Street`.
 
@@ -279,31 +280,31 @@ Most common response for religion was No Religion at 44.8%.
   * No.35(La Trobe Street): City Circle - no.30 St Vincent's plaza - Docklands lines
 
 
-# East Melbourne, Victoria
+## East Melbourne, Victoria
 
 `East Melbourne` is an inner suburb of Melbourne, Australia, 2 km east of Melbourne's `central business district`. Its local government area is the `City of Melbourne`.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/66/Queens_Bess.jpg)
 
-## Boundary
+### Boundary
 
 East Melbourne is a small area of inner Melbourne, located between `Richmond` and the `Melbourne Central Business District`, it is bounded by Spring Street, Victoria Parade, Punt road/Hoddle Street and Brunton Avenue.
 
 
-## Status
+### Status
 
-## Demographics(Data source from 2016 Census)
+### Demographics(Data source from 2016 Census)
 
 East Melbourne had a population of 4,964,
 * Australia 62.8%
 * England 4.2%
 * New Zealand 3.0%
 
-## Religion
+### Religion
 
 The most common responses for religion were No Religion 42.8% and Catholic 18.3%.
 
-## Transport
+### Transport
 
 East Melbourne is served by major tramlines on `Wellington Parade` and `Victoria Parade`, both connecting with the CBD in the western edge of the suburb.
 

@@ -246,7 +246,7 @@ Key industries:
 * MelbourneCBD
 
 
-## Stonnington
+## Stonnington(City)
 
 The City of Stonnington is located south east next to Melbourne and covers some of Melbourne’s most prestigious suburbs such as Toorak, South Yarra and Prahran. Young population with a median age of 35 and the top five non-English speaking languages are Greek, Mandarin, Cantonese, Italian and Hindi.
 Stonnington is famous for its fashion scene on Chapel Street.
@@ -265,7 +265,7 @@ Key industries:
 * Professional, scientific and technical services
 
 
-## Glen Eira
+## Glen Eira(City)
 
 The City of Glen Eira covers about 38 km2 of Melbourne’s inner east and 15 suburbs.
 Residents of Glen Eira enjoy a calendar full of regular community events, parks, gardens and galleries.
@@ -285,7 +285,7 @@ Key industries:
 * Retail
 
 
-## Bayside
+## Bayside(City)
 
 The City of Bayside is located south east of the centre of Melbourne and includes several suburbs near Port Phillip Bay such as Brighton, Beaumaris and Sandringham.
 Bayside is full of activities and sights such as some of the best beaches in Melbourne, sports clubs and regular community events.
