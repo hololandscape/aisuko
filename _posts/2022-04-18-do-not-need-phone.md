@@ -1,5 +1,5 @@
 ---
-title: "New way for human to receive the information through the internet."
+title: "New way for human to receive the information through the internet"
 categories:
   - Document
   - Blog
