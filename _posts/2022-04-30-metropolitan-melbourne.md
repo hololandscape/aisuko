@@ -225,7 +225,6 @@ Tram routes
 `West Melbourne` is an inner suburb of `Melbourne`, `Australia`, 2 km north-west of and adjacent to `Melbourne's Central Business District`. Its local government area is the City of Melbourne. At the 2016 census, West Melbourne had a population of `5,515`.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/eb/St_Mary%27s_Star_of_the_Sea.JPG)
-Source:https://en.wikipedia.org/wiki/File:St_Mary%27s_Star_of_the_Sea.JPG
 
 ### Boundary
 
