@@ -20,18 +20,18 @@ feature_row:
     url: https://flickr.com/photos/aisukoli/51472375112/in/dateposted-public/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://live.staticflickr.com/65535/51472375112_0f74fa3aa2_w.jpg
+  - image_path: https://live.staticflickr.com/65535/51433762045_0c4b2e6e07_w.jpg
     alt: "fully responsive"
-    title: RROJ
+    title: 😱
     excerpt: Tutorial
-    # url: "/docs/layouts/"
+    url: https://flickr.com/photos/aisukoli/51433762045/in/dateposted-public/
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://live.staticflickr.com/65535/51472375112_0f74fa3aa2_w.jpg
+  - image_path: https://live.staticflickr.com/65535/51421389058_b8c166831f_w.jpg
     alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    # url: "/docs/license/"
+    title: 😵‍💫
+    excerpt: "RROJ"
+    url: https://flickr.com/photos/aisukoli/51421389058/in/dateposted-public/
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
