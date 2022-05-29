@@ -15,7 +15,7 @@ excerpt: >
 feature_row:
   - image_path: https://live.staticflickr.com/65535/51472375112_0f74fa3aa2_w.jpg
     alt: "customizable"
-    title: Sky
+    title: 🙄
     excerpt: Research Report
     url: https://flickr.com/photos/aisukoli/51472375112/in/dateposted-public/
     btn_class: "btn--primary"
