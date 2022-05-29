@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
 #   overlay_color: "#5e616c"
-  overlay_filter: "0.5"
+  # overlay_filter: "0.1"
   overlay_image: https://live.staticflickr.com/65535/51537858703_e6c94b0bda_b.jpg
 #   actions:
 #     - label: "<i class='fas fa-download'></i> "
@@ -15,15 +15,15 @@ excerpt: >
 feature_row:
   - image_path: https://live.staticflickr.com/65535/51472375112_0f74fa3aa2_w.jpg
     alt: "customizable"
-    title: "🧐"
-    excerpt: "🙄🙄🙄🙄"
-    # url: "/docs/configuration/"
+    title: 🧐
+    excerpt: 🙄🙄🙄🙄
+    url: "https://flickr.com/photos/aisukoli/51472375112/in/dateposted-public/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://live.staticflickr.com/65535/51472375112_0f74fa3aa2_w.jpg
     alt: "fully responsive"
-    title: "🧐"
-    excerpt: "🙄🙄🙄🙄"
+    title: 🧐
+    excerpt: 🙄🙄🙄🙄
     # url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
