@@ -30,7 +30,7 @@ feature_row:
   - image_path: https://live.staticflickr.com/65535/51421389058_b8c166831f_w.jpg
     alt: "100% free"
     title: 😵‍💫
-    excerpt: "RROJ"
+    excerpt: "Steam Deck is shipping."
     url: https://flickr.com/photos/aisukoli/51421389058/in/dateposted-public/
     btn_class: "btn--primary"
     btn_label: "Learn more"      
