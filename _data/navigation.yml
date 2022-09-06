@@ -18,3 +18,5 @@ docs:
     children:
       - title: "Free-Software"
         url: /docs/free-software/
+      - title: "Steam-Deck"
+        url: /docs/steam-deck/
