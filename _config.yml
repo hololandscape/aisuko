@@ -13,18 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Aisuko
-email: urakiny@gmail.com
+
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+
+minimal_mistakes_skin    : "default"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Aisuko"
+title_separator          : "-"
+subtitle                 : "A Jekyll theme"
+words_per_minute         : 200
+email                    : urakiny@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Interested in Quantum computing and MIT-Scheme, Master of RMIT
-twitter_username: AisukoLi
-github_username: Aisuko
-minimal_mistakes_skin: dark
-search: true
+twitter_username         : AisukoLi
+github_username          : Aisuko
+
+search                   : true
+search_full_content      : true # true, false (default)
+# search_provider          : algolia # lunr (default), algolia
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+highlighter: rouge
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -56,9 +69,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aisuko Li"
-  avatar : "/assets/images/aisuko.jpg"
-  bio    : "Interested in Quantum computing and MIT-Scheme, Master of RMIT"
+  name      : "Aisuko Li"
+  avatar    : "/assets/images/aisuko.jpg"
+  bio       : "Interested in Quantum computing and MIT-Scheme, Master of RMIT"
+  localtion : "Global"
   links:
     - label: "Savannah"
       icon: "fas fa-fw fa-link"
@@ -115,3 +129,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# HTML Compression
+compress_html:
+  clippings: all
