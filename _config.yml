@@ -22,7 +22,7 @@ minimal_mistakes_skin    : "default"
 locale                   : "en-US"
 title                    : "Aisuko"
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
+subtitle                 : "Home"
 words_per_minute         : 200
 email                    : urakiny@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"

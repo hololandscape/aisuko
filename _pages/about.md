@@ -18,6 +18,15 @@ And I'm a Sky photographer [Flickr](https://flickr.com/people/aisukoli/)
 
 ![fsf member](../assets/images/5569169.png)
 
+<div id="freedom-iframe-container" style="position: relative; padding-top: calc(60% + 100px); width: 100%;">
+<iframe src="https://www.fsf.org/videos/escape-to-freedom/" scrolling="no" style="overflow: hidden; margin: 0; border: 0 none; display: block; position: absolute; width: 100%; height: 100%; top: 0;"></iframe>
+</div>
+<script>
+// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&dn;=gpl-3.0.txt GPL-3.0-or-later
+window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-height")) { document.getElementById('freedom-iframe-container').style.height=`${e.data["freedom-iframe-height"]}px`;  document.getElementById('freedom-iframe-container').style["padding-top"]="unset";} };
+// @license-end
+</script>
+
 Aisuko Li  
 Maintainer, Free Software Foundation, [CNCF](https://community.cncf.io/u/mbkrge/#/about), [Savannah](https://savannah.nongnu.org/users/aisuko)  
 GPG Key: 41EB 11F5 0B7E 17D3 A14F 3A24 E056 4559 856E 636C   
