@@ -28,9 +28,12 @@ window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-heig
 
 
 
-![fsf member](../assets/images/5569169.png)
+
 
 Aisuko Li  
+
+![fsf member](../assets/images/5569169.png)  
+
 Maintainer, Free Software Foundation, [CNCF](https://community.cncf.io/u/mbkrge/#/about), [Savannah](https://savannah.nongnu.org/users/aisuko)  
 GPG Key: 41EB 11F5 0B7E 17D3 A14F 3A24 E056 4559 856E 636C   
 [fsf.org](https://fsf.org) | [gnu.org](https://gnu.org) | [meshery.io](https://meshery.io)
