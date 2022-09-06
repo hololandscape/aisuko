@@ -1,7 +1,7 @@
 ---
-title: "free-software"
-excerpt: "Freedom softwares."
-sitemap: true
+title       : "free-software"
+excerpt     : "Freedom softwares."
+sitemap     : true
 permalink   : /docs/free-software
 toc         : true
 ---
