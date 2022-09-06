@@ -1,5 +1,5 @@
 ---
-title       : "steam-deck"
+title       : "Steam Deck"
 excerpt     : "Steam Deck"
 sitemap     : false
 permalink   : /docs/steam-deck/

@@ -1,5 +1,5 @@
 ---
-title       : "free-software"
+title       : "Free Software"
 excerpt     : "Freedom softwares."
 sitemap     : false
 permalink   : /docs/free-software/
