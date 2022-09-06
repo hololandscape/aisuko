@@ -1,6 +1,6 @@
 main:
   - title: "Blogs"
-    url: /docs/free-software
+    url: /docs/free-software/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
