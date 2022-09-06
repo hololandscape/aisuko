@@ -11,3 +11,10 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+
+docs:
+  - title: Free Software
+    children:
+      - title: "Free-Software"
+        url: /docs/free-software/
