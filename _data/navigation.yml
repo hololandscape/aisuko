@@ -5,7 +5,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Sample Collections"
+  - title: "Collections"
     url: /collection-archive/
   - title: "Tags"
     url: /tags/
