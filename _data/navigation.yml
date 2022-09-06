@@ -16,7 +16,7 @@ main:
 docs:
   - title: Free Software
     children:
-      - title: "Free-Software"
+      - title: "Free Software"
         url: /docs/free-software/
-      - title: "Steam-Deck"
+      - title: "Steam Deck"
         url: /docs/steam-deck/
