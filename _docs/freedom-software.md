@@ -3,7 +3,7 @@ title       : "Free Software"
 excerpt     : "Freedom softwares."
 sitemap     : false
 permalink   : /docs/free-software/
-toc         : true
+toc         : false
 ---
 
 I have always believed that technology should be readily available and accesible to everyone. Furthermore, it includes both hardware and software.

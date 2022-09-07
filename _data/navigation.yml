@@ -20,3 +20,7 @@ docs:
         url: /docs/free-software/
       - title: "Steam Deck"
         url: /docs/steam-deck/
+  - title: GNU Hurd
+    children:
+      - title: "Preparing ssh key"
+        url: /docs/ssh-savannah/
