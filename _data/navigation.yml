@@ -18,9 +18,11 @@ docs:
     children:
       - title: "Free Software"
         url: /docs/free-software/
-      - title: "Steam Deck"
-        url: /docs/steam-deck/
   - title: GNU Hurd
     children:
       - title: "Preparing ssh key"
         url: /docs/ssh-savannah/
+  - title: Steam Deck
+    children:  
+      - title: "Steam Deck"
+        url: /docs/steam-deck/

@@ -6,7 +6,7 @@ permalink   : /docs/ssh-savannah/
 toc         : true
 ---
 
-# Upgrading ssh user key access to ED25519 keys.
+## Upgrading ssh user key access to ED25519 keys.
 
 
 ED25519 keys were introduced in OpenSSH 6.5 and offers better security with faster performance using a more compact key. Using the ED 25519 user key also enables using the ED25519 host key at the same time.
@@ -14,4 +14,9 @@ ED25519 keys were introduced in OpenSSH 6.5 and offers better security with fast
 ```
 ssh-keygen -t ed25519
 ```
+
+
+## References:
+
+https://savannah.gnu.org/maintenance/SshAccess/
 
