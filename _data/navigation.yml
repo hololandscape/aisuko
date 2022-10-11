@@ -14,6 +14,10 @@ main:
 
 
 docs:
+  - title: Data Structures
+    children:
+      - title: "Data Structures"
+        url: /docs/data_structures/
   - title: Free Software
     children:
       - title: "Free Software"
