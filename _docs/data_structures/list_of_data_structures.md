@@ -7,8 +7,6 @@ toc         : true
 ---
 
 
-# Data types
-
 ## Primitive types
 * Boolean
 * Character
@@ -21,11 +19,14 @@ toc         : true
 
 
 ## Composite types or non-primitive type
+* Array(String is an array of characters)
+* Record(structure)
+* Union(variant)
 
 ## Abstract data types
 
 
 
-# References:
+## References:
 
 * https://en.wikipedia.org/wiki/List_of_data_structures

@@ -2,7 +2,7 @@
 title       : "Free Software"
 excerpt     : "Freedom softwares."
 sitemap     : false
-permalink   : /docs/free-software/
+permalink   : /docs/free_software/
 toc         : false
 ---
 

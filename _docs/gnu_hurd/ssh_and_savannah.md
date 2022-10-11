@@ -2,7 +2,7 @@
 title       : "ssh and savannah"
 excerpt     : "ssh and savannah"
 sitemap     : false
-permalink   : /docs/ssh-savannah/
+permalink   : /docs/ssh_savannah/
 toc         : true
 ---
 

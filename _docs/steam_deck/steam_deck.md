@@ -2,7 +2,7 @@
 title       : "Steam Deck"
 excerpt     : "Steam Deck"
 sitemap     : false
-permalink   : /docs/steam-deck/
+permalink   : /docs/steam_deck/
 toc         : false
 ---
 
