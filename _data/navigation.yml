@@ -20,6 +20,8 @@ docs:
         url: /docs/list_of_data_structures/
       - title: "Data type VS Data Structures"
         url: /docs/data_type_vs_data_structure/
+      - title: "Abstract Data Type"
+        url: /docs/abstract_data_type/
   - title: Free Software
     children:
       - title: "Free Software"

@@ -9,7 +9,7 @@ toc         : true
 
 ## Primitive types
 
-> In computer science, primitive data types are a set of basic data types from which all other data types are constructed. Data types which are not primitive are referred to as derived or composite.
+> In computer science, `primitive data types` are `a set of basic data types` from which all other data types are constructed. Data types which are not primitive are referred to as derived or composite.
 
 
 * Boolean
