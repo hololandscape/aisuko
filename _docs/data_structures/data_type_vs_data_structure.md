@@ -2,7 +2,7 @@
 title       : "Data type VS Data structure"
 excerpt     : "data type, structures"
 sitemap     : false
-permalink   : /docs/data_structures/data_type_vs_data_structure
+permalink   : /docs/data_structures/data_type_vs_data_structure/
 toc         : true
 ---
 

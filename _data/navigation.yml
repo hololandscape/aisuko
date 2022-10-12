@@ -17,7 +17,9 @@ docs:
   - title: Data Structures
     children:
       - title: "Data Structures"
-        url: /docs/data_structures/list_of_data_structures
+        url: /docs/data_structures/list_of_data_structures/
+      - title: "Data type VS Data Structures"
+        url: /docs/data_structures/data_type_vs_data_structure/
   - title: Free Software
     children:
       - title: "Free Software"
