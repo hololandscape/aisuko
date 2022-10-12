@@ -2,7 +2,7 @@
 title       : "List of data structures"
 excerpt     : "data structures"
 sitemap     : false
-permalink   : /docs/data_structures/list_of_data_structures/
+permalink   : /docs/list_of_data_structures/
 toc         : true
 ---
 

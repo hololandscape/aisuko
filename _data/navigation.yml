@@ -1,6 +1,6 @@
 main:
   - title: "Blogs"
-    url: /docs/free-software/
+    url: /docs/free_software/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -17,9 +17,9 @@ docs:
   - title: Data Structures
     children:
       - title: "Data Structures"
-        url: /docs/data_structures/list_of_data_structures/
+        url: /docs/list_of_data_structures/
       - title: "Data type VS Data Structures"
-        url: /docs/data_structures/data_type_vs_data_structure/
+        url: /docs/data_type_vs_data_structure/
   - title: Free Software
     children:
       - title: "Free Software"
