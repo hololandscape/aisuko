@@ -1,15 +1,15 @@
 ---
-title       : "Data type VS Data structure"
-excerpt     : "data type, structures"
+title       : "Data type"
+excerpt     : "data type"
 sitemap     : false
-permalink   : /docs/data_type_vs_data_structure/
+permalink   : /docs/data_type/
 toc         : true
 ---
 
 
 ## Data Type
 
-> In computer science and computer programming, data type is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data.
+In computer science and computer programming, data type is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data.
 
 
 ## Concept
@@ -49,7 +49,7 @@ An ADT is a possibly recursive sum type of product types.
 
 ### Data structures
 
-> Some types are very useful for storing and retrieving data and are called data structures. Common data structures include:
+Some types are very useful for storing and retrieving data and are called data structures. Common data structures include:
 
 * An array(also called vector, list or sequence) stores a number of elements and provides `random access` to individual elements.
   * Typically required to be the same type
@@ -64,15 +64,33 @@ An ADT is a possibly recursive sum type of product types.
 * An object contains a number of data fields, like record, and also a number of subroutines for accessing or modifying them, called methods
 
 * Singly linked list
-  * Implementing a queue and it defined in Haskell as the ADT(Abstract data types)
+  * Implementing a `queue` and it defined in Haskell as the ADT(Abstract data types)
 
 * Binary tree
-    * allowing fast searching
+    * allowing `fast searching`
     * can be defined in Haskell as the ADT
 
-
-## Abstract data types
+### Abstract data types
 An abstract data type is a data type that does not specify the concrete representation of the data. Instead, a formal specification based on the data type's operations is used to describe it. Any implementation of a specification must fulfill the rules given.
+
+### Pointers and references
+
+A data type whose value refers directly to another values stored elsewhere in the computer memory using its address. If the value of pointer was never a valid memory address would cause a program to crash. This is an potential problem.
+
+### Function types
+
+### Type constructors
+
+### Quantified types
+
+### Refinement types
+
+### Dependent types
+
+### Meta types
+
+### Convenience types
+
 
 
 
