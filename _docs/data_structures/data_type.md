@@ -77,24 +77,24 @@ An abstract data type is a data type that does not specify the concrete represen
 
 A data type whose value refers directly to another values stored elsewhere in the computer memory using its address. If the value of pointer was never a valid memory address would cause a program to crash. This is an potential problem.
 
-### Function types
 
-### Type constructors
-
-### Quantified types
-
-### Refinement types
-
-### Dependent types
-
-### Meta types
-
-### Convenience types
-
-
+### Others
+* Function types
+* Type constructors
+* Quantified types
+* Refinement types
+* Dependent types
+* Meta types
+* Convenience types
 
 
 ## Reference
-
 * https://en.wikipedia.org/wiki/Data_type
 * https://en.wikipedia.org/wiki/Data_structure
+
+
+
+
+
+
+
