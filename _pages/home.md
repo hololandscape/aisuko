@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-download'>Original</i> "
       url: https://flickr.com/photos/aisukoli/51536829942/in/dateposted-public/
 excerpt: >
-  That's it. No big deal.<br />
+  Photograph .<br />
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: https://live.staticflickr.com/65535/51472375112_0f74fa3aa2_w.jpg

@@ -8,13 +8,15 @@ toc         : true
 
 
 ## Data Type
-
-In computer science and computer programming, data type is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data.
+> In computer science and computer programming, data type is a set of possible values and a set of allowed operations on it. A data type tells the compiler or interpreter how the programmer intends to use the data.
 
 
 ## Concept
+> A data type is a collection or grouping of data values. Such a grouping may be defined for many reasons: similarity, convenience, or to focus the attention.
 
-A data type is a collection or grouping of data values. Such a grouping may be defined for many reasons: similarity, convenience, or to focus the attention.
+* Primitive types
+* Composite types or non-primitive type
+* Abstract data types
 
 
 ## Notable data types
