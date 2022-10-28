@@ -36,3 +36,5 @@ docs:
     children:  
       - title: "Steam Deck"
         url: /docs/steam_deck/
+      - title: "Steam Deck Dock and Switch"
+        url: /docs/steamdeck_switch/
