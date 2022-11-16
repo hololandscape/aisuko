@@ -24,6 +24,8 @@ docs:
         url: /docs/abstract_data_type/
       - title: "Data structure"
         url: /docs/data_structure/
+      - title: "Array"
+        url: /docs/array/
   - title: Free Software
     children:
       - title: "Free Software"
