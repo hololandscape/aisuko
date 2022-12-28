@@ -23,5 +23,5 @@ ADT may be defined as a "class of objects whose logical behavior is defined by a
 An abstract data type is defined as a mathematical model of the data objects that make up a data type as well as the functions that operate on these objects. There are no standard conventions for defining them.
 
 
-## Reference
-* https://en.wikipedia.org/wiki/Abstract_data_type
+## Source
+* [https://en.wikipedia.org/wiki/Abstract_data_type](https://en.wikipedia.org/wiki/Abstract_data_type)
