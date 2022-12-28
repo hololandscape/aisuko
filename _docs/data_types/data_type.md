@@ -90,9 +90,9 @@ A data type whose value refers directly to another values stored elsewhere in th
 * Convenience types
 
 
-## Reference
-* https://en.wikipedia.org/wiki/Data_type
-* https://en.wikipedia.org/wiki/Data_structure
+## Source
+* [https://en.wikipedia.org/wiki/Data_type](https://en.wikipedia.org/wiki/Data_type)
+* [https://en.wikipedia.org/wiki/Data_structure](https://en.wikipedia.org/wiki/Data_structure)
 
 
 

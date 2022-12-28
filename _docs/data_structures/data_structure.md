@@ -18,5 +18,5 @@ Data structures serve as the basis for abstract data types(ADT). The ADT defines
 
 
 
-## Reference
-* https://en.wikipedia.org/wiki/Data_structure
+## Source
+* [https://en.wikipedia.org/wiki/Data_structure](https://en.wikipedia.org/wiki/Data_structure)

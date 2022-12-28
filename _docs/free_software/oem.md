@@ -1,5 +1,5 @@
 ---
-title       : "Original equipment manufacturer"
+title       : "OEM"
 sitemap     : true
 permalink   : /docs/oem/
 toc         : true
@@ -10,5 +10,5 @@ toc         : true
 Some operating systems require installation or may come pre-installed with purchased computers(OEM-installation).
 
 
-# Source
+## Source
 [https://en.wikipedia.org/wiki/Operating_system](https://en.wikipedia.org/wiki/Operating_system)

@@ -46,7 +46,6 @@ Connection to cvs.savannah.gnu.org closed.
 Savannah server's security policy is implemented by fail2ban(six failures in one minutes bans your IP for ten minutes).
 
 
-## References:
-
-https://savannah.gnu.org/maintenance/SshAccess/
+## Source:
+[https://savannah.gnu.org/maintenance/SshAccess/](https://savannah.gnu.org/maintenance/SshAccess/)
 

@@ -8,7 +8,7 @@ toc         : true
 
 
 ## Arrays are important data structures
-* They are used to implement many other structures, like `lists` and `strings`.
+They are used to implement many other structures, like `lists` and `strings`.
 
 ## Term "Array"
 Array may also refer to `array data type`. Array types are often implemented by array structures, in some languages they may be implemented by hash tables, linked lists,search trees, or other data structures.
@@ -30,6 +30,6 @@ Both `store` and `select` take constant time. Arrays take linear `O(n)` space in
 Array accesses with statically predictable access patterns are a major source of data parallelism.
 
 
-## References list
-* https://en.wikipedia.org/wiki/Array_(data_structure)
-* https://en.wikipedia.org/wiki/Array_(data_type)
+## Source
+* [https://en.wikipedia.org/wiki/Array_(data_structure)](https://en.wikipedia.org/wiki/Array_(data_structure))
+* [https://en.wikipedia.org/wiki/Array_(data_type)](https://en.wikipedia.org/wiki/Array_(data_type))
