@@ -7,7 +7,7 @@ header:
   # overlay_filter: "0.1"
   overlay_image: https://live.staticflickr.com/65535/51537858703_e6c94b0bda_b.jpg
   actions:
-    - label: "<i class='fas fa-download'>Original</i> "
+    - label: "<i class='fas fa-download'>Flickr</i>"
       url: https://flickr.com/photos/aisukoli/51536829942/in/dateposted-public/
 # excerpt: >
 #   Photograph .<br />
