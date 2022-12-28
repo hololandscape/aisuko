@@ -30,7 +30,7 @@ docs:
     children:
       - title: "Free Software"
         url: /docs/free_software/
-      - title: "Original equipment manufacturer"
+      - title: "OEM"
         url: /docs/oem/
   - title: GNU Hurd
     children:
@@ -40,5 +40,5 @@ docs:
     children:  
       - title: "Steam Deck"
         url: /docs/steam_deck/
-      - title: "Steam Deck Dock and Switch"
+      - title: "SD Dock & Switch"
         url: /docs/steamdeck_switch/
