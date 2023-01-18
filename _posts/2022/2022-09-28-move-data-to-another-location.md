@@ -57,7 +57,7 @@ systemctl start docker
 systemctl status docker
 ```
 
-### `rsync` command in GNU/Linux
+## `rsync` command in GNU/Linux
 
 rsync(remote synchronization) is a software utility for Unix-Like systems that efficiently sync files and directories between two hosts or machines.
 
