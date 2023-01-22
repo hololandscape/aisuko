@@ -70,8 +70,8 @@ plugins:
 
 author:
   name      : "Aisuko Li"
-  avatar    : "/assets/images/aisuko.jpg"
-  bio       : "Interested in Quantum computing and MIT-Scheme, Master of RMIT"
+  avatar    : "/assets/images/aisuko_withoutmask.png"
+  bio       : "Interested in Quantum computing and MIT-Scheme, Student of RMIT"
   localtion : "Global"
   links:
     - label: "Savannah"
