@@ -70,7 +70,7 @@ plugins:
 
 author:
   name      : "Aisuko Li"
-  avatar    : "/assets/images/aisuko_withoutmask.png"
+  avatar    : "/assets/images/aisuko_withoutmask.JPG"
   bio       : "Interested in Quantum computing and MIT-Scheme, Student of RMIT"
   localtion : "Global"
   links:
