@@ -1,4 +1,4 @@
-# Aisuko
+# The landscape for new ideas
 
 ![](./assets/images/5569169.png)
 
