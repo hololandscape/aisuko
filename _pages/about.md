@@ -3,10 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-<div>
-<iframe src="https://github.com/sponsors/Aisuko/card" title="Sponsor Aisuko" height="225" width="600" style="border: 0;"></iframe>
-</div>
-
 -----------------------------------------------------------------------------------------
 
 I'm Bowen Li, the code name is **Aisuko**. It's looks great.
@@ -22,7 +18,9 @@ And lots of basic automatic tools there must be have I guess.
 
 And I'm a Sky photographer [Flickr](https://flickr.com/people/aisukoli/)
 
-Aisuko Li
+Aisuko Li  
+
+<iframe src="https://github.com/sponsors/Aisuko/button" title="Sponsor Aisuko" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 
 ![fsf member](../assets/images/5569169.png)  
