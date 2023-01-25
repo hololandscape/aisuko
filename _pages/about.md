@@ -11,17 +11,15 @@ I'd like to do something real interesting, like explore on the GNU Hurd project.
 
 And I'd like to explore the structure of the whole world. So I'm not interesting in the server, but the infrastructures are need to update here.
 
-I'd like to research the [microkernel](https://dev.to/aisuko/the-concepts-of-microkernel-3i08), I guess will make a choice on the Rust language.Because the HA or distribution servers work on a monolithic kernel is not stable(It's a joke). And there lots of things need to learn and research.
+I'd like to research more of the [microkernel](https://dev.to/aisuko/the-concepts-of-microkernel-3i08) because the HA or distribution servers work on a monolithic kernel is not stable(It's a joke). And there lots of things need to learn and research.
 
-And lots of basic automatic tools there must be have I guess.
+And lots of basic automatic tools there must have I guess.
 
-And I'm a Sky photographer [Flickr](https://flickr.com/people/aisukoli/)
+And I'm a Sky photographer [Flickr](https://flickr.com/people/aisukoli/) and all the photos are free to download.
 
 Aisuko Li
 
-
 <iframe src="https://github.com/sponsors/Aisuko/button" title="Sponsor Aisuko" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 
 ![fsf member](../assets/images/5569169.png)  
 
