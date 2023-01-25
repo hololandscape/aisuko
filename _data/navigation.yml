@@ -14,7 +14,19 @@ main:
 
 
 docs:
-  - title: Data(Computer Science)
+  - title: Algorithms(MIT)
+    children:
+      - title: "Single Variable Calculus"
+        url: /docs/mit_18_02/
+      - title: "Mathematics for CC"
+        url: /docs/mit_6_042J/
+      - title: "Introduction to EECS"
+        url: /docs/mit_6_01SC/
+      - title: "Introduction to Algorithms"
+        url: /docs/mit_6_006/
+      - title: "Design and Analysis of Algorithms"
+        url: /docs/mit_6_046J/
+  - title: Data Structure(Computer Science)
     children:
       - title: "Array"
         url: /docs/array/
