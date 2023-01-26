@@ -19,6 +19,7 @@ Informally, a `set` is a bunch of objects, which are called the elements of the 
 
 ## 3.Powerful methods
 
+Although the three methods look and feel different, it turns out that they are equivalent in the sense that a proof using any one of the methods can be automatically reformatted so that it becomes a proof using any of the other methods.
 
 
 ### Well Ordering Principle
