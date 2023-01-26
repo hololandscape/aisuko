@@ -25,16 +25,23 @@ Although the three methods look and feel different, it turns out that they are e
 Every nonempty set of nonnegative integers has a smallest element.  
 It is hard to see offhand why it is useful but ir provides one fo the most important proof rules in discrete mathematics.
 
-* Induction Rule
+* Induction Rule (Strong Induction)
 
 I use it for so many years, I know what its name is now finally. This is the original I am trying to find always. 
 
 <iframe src="https://hostux.social/@aisuko/109755347381853691/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
+<iframe src="https://hostux.social/@aisuko/109755418614544189/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 * The difference between `Induction` and `Well Ordering`
-
 Induction proofs are clearer because they resemble recursive procedures that reduce handling an input of size n+1 to handling one of size n. On the other hand, Well Ordering proofs sometimes seem more natural, and also come out slightly shorter.
 
+* Is strong induction really "stronger" than ordinary induction?
+It certainly looks that way, you just need to use a "stronger" induction hypothesis
 
+### Structural Induction
+The idea of induction is especially useful in connection with sets or data types that are defined recursively. And recursive data types play a central role in programming. Recursive definitions have two parts:
+
+* Base case(s) that do not depend on anything else.
+* Constructor case(s) that depend on previous cases.
 
