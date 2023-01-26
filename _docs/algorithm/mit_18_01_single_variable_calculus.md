@@ -7,7 +7,7 @@ toc         : true
 ---
 
 
-# Unit 1: Derivatives
+# Derivatives
 
 There are not all the units of the course which means I only pick up some simple concepts support to design the algorithms.
 
@@ -36,7 +36,7 @@ The derivative is the slope of the lin tangent to the graph of f(x).
 Calculus, rather like English or any other language, was developed by several people. As a result, just as there are many ways to express the same thing, there are many notations for the derivative.
 
 
-# Unit 2: Limits, Continuity, and Trigonometric Limits
+# Limits, Continuity, and Trigonometric Limits
 
 ## Limits and Continuity
 

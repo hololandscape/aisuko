@@ -17,7 +17,7 @@ feature_row:
     alt: "customizable"
     title: Go to home page of blogs
     # excerpt: Research Report
-    url: https://hololandscape.github.io/aisuko/docs/free_software/
+    url: /docs/mit_18_01_unit1/
     btn_class: "btn--primary"
     btn_label: "Blogs"
   - image_path: https://live.staticflickr.com/65535/51433762045_0c4b2e6e07_w.jpg
