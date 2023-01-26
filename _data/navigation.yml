@@ -17,7 +17,7 @@ docs:
   - title: Algorithms(MIT)
     children:
       - title: "Single Variable Calculus"
-        url: /docs/mit_18_02/
+        url: /docs/mit_18_01/
       - title: "Mathematics for CC"
         url: /docs/mit_6_042J/
       - title: "Introduction to EECS"
