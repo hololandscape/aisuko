@@ -1,6 +1,6 @@
 main:
   - title: "Blogs"
-    url: /docs/mit_18_01_unit1/
+    url: /docs/mit_18_01_01/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -17,7 +17,9 @@ docs:
   - title: Algorithms(MIT)
     children:
       - title: "Single Variable Calculus"
-        url: /docs/mit_18_01_unit1/
+        url: /docs/mit_18_01_01/
+      - title: "Single Variable Calculus 2"
+        url: /docs/mit_18_01_02/
       - title: "Mathematics for CC"
         url: /docs/mit_6_042J/
       - title: "Introduction to EECS"

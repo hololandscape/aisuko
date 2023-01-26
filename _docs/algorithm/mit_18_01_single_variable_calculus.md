@@ -2,7 +2,7 @@
 title       : "Single Variable Calculus"
 excerpt     : "Single Variable Calculus"
 sitemap     : false
-permalink   : /docs/mit_18_01_unit1/
+permalink   : /docs/mit_18_01_01/
 toc         : true
 ---
 
