@@ -94,3 +94,24 @@ A graph with directed edges is called a directed graph or digraph.
     * A directed graph is called a directed acyclic graph(or, DAG) it it does not contain any directed cycles.
 
 ## 10 Recurrences
+A recurrence describes a sequence of numbers. And two big classes of recurrences, linear and divide-and-conquer.
+
+### 10.2 Merge sort
+  * If the input is a single number, then the algorithm does nothing, because the list is already sorted.
+  * Otherwise, the list contains two or more numbers. The first half and the second half of the list are each sorted recursively. Them the two halves are merged to form a sorted list with all n numbers.
+  * The maximum number of comparisons used in sorting n items is taken as an estimate of the running time.
+
+* Two techniques are used to solve recurrences
+  * guess-and-verify
+  * plug-and-chug
+  * These methods require spotting a pattern in sequence of numbers or expressions
+
+### 10.3 Linear Recurrences
+
+You just follow the recipe and get the answer
+
+
+
+
+
+
