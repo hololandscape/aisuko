@@ -38,17 +38,14 @@ Calculus, rather like English or any other language, was developed by several pe
 
 # Limits, Continuity, and Trigonometric Limits
 
-## Limits and Continuity
 
 * Easy Limits
 
 It only needs to plug in the limiting value to get a meaningful answer.
 
-* Limits and Continuity
 
 <iframe src="https://hostux.social/@aisuko/109752733120735251/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
-* Removable Discontinuity
 
 <iframe src="https://hostux.social/@aisuko/109752751469875677/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 

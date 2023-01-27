@@ -8,17 +8,15 @@ toc         : true
 
 As I said before that in single-variable calculus. I will list the concepts only rather than the whole content of the course. I have checked all the materials. And according to my several years of experience in software(cloud) engineering. It looks like that many of the concepts from the mathematics for computer science are already known by myself.
 
-There are still some `proofs` should be keep in mind.
 
 
 ## 2.6 Proofs about Sets
+There are still some `proofs` should be keep in mind.
 
-* Definitions of Sets
-Informally, a `set` is a bunch of objects, which are called the elements of the set. The elements of s set can be just about anything: numbers, points in space, or even other sets. And there is no notion of an element appearing more than once in a set.
+Definitions of Sets: Informally, a `set` is a bunch of objects, which are called the elements of the set. The elements of s set can be just about anything: numbers, points in space, or even other sets. And there is no notion of an element appearing more than once in a set.
 
 
 ## 3 Induction (Powerful methods)
-
 Although the three methods look and feel different, it turns out that they are equivalent in the sense that a proof using any one of the methods can be automatically reformatted so that it becomes a proof using any of the other methods.
 
 * Well Ordering Principle
@@ -39,9 +37,45 @@ Induction proofs are clearer because they resemble recursive procedures that red
 * Is strong induction really "stronger" than ordinary induction?
 It certainly looks that way, you just need to use a "stronger" induction hypothesis
 
-### Structural Induction
+### 3.5 Structural Induction
 The idea of induction is especially useful in connection with sets or data types that are defined recursively. And recursive data types play a central role in programming. Recursive definitions have two parts:
 
 * Base case(s) that do not depend on anything else.
 * Constructor case(s) that depend on previous cases.
 
+<iframe src="https://hostux.social/@aisuko/109758384909075609/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+
+### 4 Number Theory
+In 1977 highly secure cryptosystem(RSA) based on number theory was proposed.
+
+<iframe src="https://hostux.social/@aisuko/109758531449354566/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+
+### 5 Structure
+The better you can understand the structure, the better your results will be. The most important structure is computer science is a graph, also known as a `network`.
+
+<iframe src="https://hostux.social/@aisuko/109758617989350531/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+#### 5.7 Trees
+Graphs without cycles (called acyclic graphs) are probably the most important graphs of all when it comes to computer science.
+
+* Definition 5.7.1. A connected acyclic graph is called a tree.
+* Definition 5.7.2. If every connected component of a graph G is a tree, then G is a forest.
+* Definition 5.7.3. A leaf is a node with degree 1 in a tree(or forest)
+
+* Theorem 5.7.4. Every tree has the following properties:
+  * 1. Any connected subgraph is a tree.
+  * 2. There is a unique simple path between every pair of vertices.
+  * 3. Adding an edge between nonadjacent nodes in a tree creates a graph with a cycle.
+  * 4. Removing any edge disconnects the graph
+  * 5. If the tree has at least two vertices, then it has at least two leaves.
+  * 6. The number of vertices in a tree is one larger than the number of edges.
+
+#### 5.8 Planar Graphs
+A planar graph is a graph that has a planar drawing.
+
+
+### 6 Directed Graphs
+A directed edge is an edge where the endpoint are distinguished-one is the head and one is the tail.
+A graph with directed edges is called a directed graph or digraph.

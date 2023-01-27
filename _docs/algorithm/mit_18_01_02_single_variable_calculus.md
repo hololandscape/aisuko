@@ -19,7 +19,6 @@ Integrals are used to calculate cumulative totals, average, areas
 
 <iframe src="https://hostux.social/@aisuko/109752942569519071/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
-## Definition of definite integral
 
 <iframe src="https://hostux.social/@aisuko/109752964594380490/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
