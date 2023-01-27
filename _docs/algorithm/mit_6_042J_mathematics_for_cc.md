@@ -79,3 +79,18 @@ A planar graph is a graph that has a planar drawing.
 ### 6 Directed Graphs
 A directed edge is an edge where the endpoint are distinguished-one is the head and one is the tail.
 A graph with directed edges is called a directed graph or digraph.
+
+* 6.1 Degrees
+  * With directed graphs, the notion of degree splits into `indegree` and `outdegree`.
+
+* 6.1.2 Directed Walks, Paths, and Cycles
+  * A directed walk (or more simply, a walk) in a directed graph G is a sequence of vertices v0~vn and edges.
+  * A directed path (or path) in a directed graph is walk where the nodes in the walk are all different.
+  * A directed cycle (or cycle) in a directed graph is a closed walk where all the vertices vi are different for 0<=i<=k.
+
+* 6.1.4 DAGs
+  * If an undirected graph does not have any cycles, then it is a tree or a forest.
+  * Definition 6.1.4
+    * A directed graph is called a directed acyclic graph(or, DAG) it it does not contain any directed cycles.
+
+## 10 Recurrences
