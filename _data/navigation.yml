@@ -30,10 +30,10 @@ docs:
         url: /docs/mit_6_046J/
   - title: Data Structure(Computer Science)
     children:
-      - title: "Array"
-        url: /docs/array/
       - title: "Abstract Data Type"
         url: /docs/abstract_data_type/
+      - title: "Array"
+        url: /docs/array/
       - title: "Data type"
         url: /docs/data_type/
       - title: "Data Structures"

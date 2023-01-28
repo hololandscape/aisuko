@@ -18,7 +18,6 @@ Arrays are used to implement mathematical vectors and matrices, data structures 
 Array-based implementations of other data structures are frequently simple and space-efficient, good space overhead, but may have poor space complexity(when modified)
 
 ## Term "Dynamic Array"
-
 In computer science, a dynamic array, growable array, resizable array, dynamic table, mutable array, or array list is a random access, variable-size list data structure that allows elements to be added or removed.
 
 ## In algorithms
