@@ -226,7 +226,10 @@ def depthFirstSearch(initialState, goalTest, actions, successor)
     return None
 ```
 
-Computational complexity(The worst-case analysis for the algorithms)
+#### Computational complexity
+
+> The worst-case analysis for the algorithms
+
 Let's establish a bit of notation:
 * b be the branching factor of the graph
 * d be the maximum depth of thr graph
@@ -236,3 +239,12 @@ Let's establish a bit of notation:
 Depth-first search, in the worst case, will search the entire search tree. The amount of storage it needs for the agenda is only b.d
 
 Breadth-first search, only needs to search as deep as the depth of the best solution. So, breadth-first require visiting as many as b**steps nodes(worst situation)
+
+#### Priority Queue
+It is a data structure with the same basic operations as stacks and queues, with two difference:
+* Items are pushed into priority queue with a numeric score, called a cost
+* When it is time to pop an item, the item in the priority queue with the least code is returned and removed from the priority queue
+
+#### Uniform-cost search algorithm
+* It replace agenda with priority queue
+* Instead of testing for a goal state when we put an element into the agenda, as we did in breadth-first search, we test for a goal state when we take an element out of the agenda. This crucial, to ensure that we actually find the shortest path to a goal state.
