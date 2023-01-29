@@ -16,14 +16,14 @@ There are not all the units of the course which means I only pick up some simple
 * Important for any measurement(economics, political, science, finance, physics, etc)
 
 
-## A. What is a derivatives?
+## What is a derivatives?
 
 The derivative is the slope of the lin tangent to the graph of f(x). 
 
 <iframe src="https://hostux.social/@aisuko/109752557161015873/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 
-### But what is a tangent line, exactly?
+### what is a tangent line, exactly?
 
 * It is NOT just a line that meets the graph at one point.
 * It is the `limit` of the secant line(a line drawn between two points on the graph) as the distance between the two points goes to zero.
@@ -37,11 +37,8 @@ Calculus, rather like English or any other language, was developed by several pe
 
 
 # Limits, Continuity, and Trigonometric Limits
-
-
-* Easy Limits
-
-It only needs to plug in the limiting value to get a meaningful answer.
+Easy Limits
+* It only needs to plug in the limiting value to get a meaningful answer.
 
 
 <iframe src="https://hostux.social/@aisuko/109752733120735251/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>

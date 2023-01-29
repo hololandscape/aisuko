@@ -53,13 +53,12 @@ Abstract data types
 ### 3.3 Structured data
 List mutation and shared structure
 A tuple is a structure that is like a list, but it not mutable. `String` is a special kind of tuple.
+Lambda constructor
+* `lambda <var1>, ..., <varn> : <expr>`
 
-* Lambda constructor
-  `lambda <var1>, ..., <varn> : <expr>`
-
-* Recursive
-  * The base case
-  * Recursive case
+Recursive
+* The base case
+* Recursive case
 
 
 ## 8 Long-term decision-making and search
@@ -103,7 +102,6 @@ def search(initialState, goalTest, actions, successor):
 
 
 #### Representing search trees
-  
 We will start by defining a class to represent a search node
   * the `state` of the node
   * the `action` that was taken to arrive at the node
@@ -197,9 +195,7 @@ Some important properties od breadth-first search:
 * It requires more space than depth-first search
 
 ```Python
-
 def depthFirstSearch(initialState, goalTest, actions, successor)
-    # breadth-First search agenda=Queue()
     agenda=Stack()
     if goalTest(initialState)
         return [(None, initialState)]
@@ -207,7 +203,6 @@ def depthFirstSearch(initialState, goalTest, actions, successor)
     visited ={initialState: True}
     while not agenda.isEmpty():
         parent=agenda.pop()
-        # newChildStates=[]
         for a in actions(parent.state):
             newS=successor(parent.state, a)
             newN=SearchNode(a, newS, parent)
@@ -215,13 +210,8 @@ def depthFirstSearch(initialState, goalTest, actions, successor)
                 return newN.path()
             elif visited.has_key(newS):
                 pass
-            # elif newS in newChildStates:
-            #     pass
-            # elif parent.inPath(newS):
-            #     pass
             else:
                 visited[newS]=True
-                # newChildStates.append(newS)
                 agenda.push(newN)
     return None
 ```
