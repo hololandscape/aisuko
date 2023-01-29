@@ -112,13 +112,3 @@ There are a couple of useful methods
       else:
           return self.parent.inPath(s)
   ```
-
-
-
-
-
-
-
-
-
-
