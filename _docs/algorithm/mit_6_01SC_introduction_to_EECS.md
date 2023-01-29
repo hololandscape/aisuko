@@ -60,3 +60,65 @@ A tuple is a structure that is like a list, but it not mutable. `String` is a sp
 * Recursive
   * The base case
   * Recursive case
+
+
+## Long-term decision-making and search
+
+### State-space search
+* a(possibly infinite) set of states the system can be in;
+* a starting state, which is an element of the set of states;
+* a goal test, which is a procedure that can be applied to any state, and returns True if that state can serve as a goal;
+* a successor function, which takes a state and an action as input, and returns the new state that will result form taking the action in the state
+* a legal action list, which is just a list of actions that can be legally executed in this domain
+
+The structure can be defining a search tree
+
+#### Representing search trees
+  
+We will start by defining a class to represent a search node
+  * the `state` of the node
+  * the `action` that was taken to arrive at the node
+  * the search node from which this node can be reached(`parent`)
+
+<iframe src="https://hostux.social/@aisuko/109769794138148960/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+
+```Python
+class SearchNode:
+    def __init__(self, action, state, parent):
+        self.state=state
+        self.action=action
+        self.parent=parent
+```
+
+There are a couple of useful methods
+  * the `path` method, returns a list of pairs (a, s) corresponding to the path staring at the top(root) of the tree. It works its way up the tree, until it reaches a node whose parent is None
+
+  ```Python
+  def path(self):
+      if self.parent==None:
+        return [(self.action, self.states)]
+      else:
+        return self.parent.path() + [(self.action, self.state)]
+  ```
+  * the `inPath` method, which takes a state and returns True if the state occurs anywhere in the path from the root to the node
+
+  ```Python
+  def inPath(self, s):
+      if s==self.state:
+          return True
+      elif self.parent==None:
+          return False
+      else:
+          return self.parent.inPath(s)
+  ```
+
+
+
+
+
+
+
+
+
+
