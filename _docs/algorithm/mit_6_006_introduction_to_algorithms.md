@@ -27,3 +27,6 @@ Computational procedure to solve a problem
 
 ### Pointer Machine
 <iframe src="https://hostux.social/@aisuko/109776224076675442/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+### Python Model
+<iframe src="https://hostux.social/@aisuko/109776669879349096/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
