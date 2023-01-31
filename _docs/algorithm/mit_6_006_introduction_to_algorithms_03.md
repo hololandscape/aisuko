@@ -35,10 +35,12 @@ All operations are O(h) where h is heigh of the BST, the algorithm for augmentat
 # It needs to be implemented with python code
 ```
 
-### Balanced BSTs
+## Balanced BSTs
 Why the binary search tree needs to be balanced?
-
-
+* BSTs support insert, delete, min, max,next-larger, next-smaller, etc. in O(h) time, where h =height of tree(= height of root)
+* h is between lg n and n
+* balanced BST maintains h =O(lg n) -> all operations run in O(lg n) time
+<iframe src="https://hostux.social/@aisuko/109783346056857246/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 
 ## Source
