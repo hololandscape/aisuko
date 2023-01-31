@@ -25,3 +25,8 @@ Complexity: O(n log n) comparisons,  n^2 swaps
 Merge soft (Key subroutine: Merge)  
 If `n=1`, done(nothing to sort). Otherwise, recursively sort A[1..n/2] and A[n/2+1..n]. "Merge" the two sorted sub-arrays  
 Running time = O(n) to merge a total of n elements (linear time)
+
+
+## Data structures
+<iframe src="https://hostux.social/@aisuko/109781364506786788/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
