@@ -41,7 +41,7 @@ After n iterations the Heap is empty every iteration involves `a swap` and a `ma
 ## Data structures
 <iframe src="https://hostux.social/@aisuko/109781364506786788/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
-<iframe src="https://hostux.social/@aisuko/109781962045878255/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+<iframe src="https://hostux.social/@aisuko/109781962045878255/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 Heap Operations
 `build_max_help` produce a max-heap from an unordered array
@@ -66,5 +66,10 @@ if largest !=i:
 # Max_Heapify(A, largest)
 ```
 
-<iframe src="https://hostux.social/@aisuko/109782285623362932/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+Build_Max_Heap
+```
+for i=n/2 downto 1
+    do Max_Heapify(A, i)
+```
 
+<iframe src="https://hostux.social/@aisuko/109782285623362932/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
