@@ -8,4 +8,21 @@ toc         : true
 
 ## Insertion sort
 
-https://github.com/Aisuko/mit_6.006/blob/e7fcaba4301cc9d4565768d41121412f586a160f/02_code/docdist1.py#L20-L35
+```python
+###################################
+# Operation 4: sort words into alphabetic order(inplace)
+###################################
+def insertion_sort(A):
+    """
+    Sort list A into order, in place and it uses 0-indexing
+    """
+    a_length=len(A)
+    for j in range(a_length):
+        key=A[j]
+        i=j-1
+        while i>-1 and A[i]>key:
+            A[i+1]=A[i]
+            i=i-1
+        A[i+1]=key
+    return A
+```
