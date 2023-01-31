@@ -43,12 +43,12 @@ After n iterations the Heap is empty every iteration involves `a swap` and a `ma
 
 <iframe src="https://hostux.social/@aisuko/109781962045878255/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
-Heap Operations
+### Heap Operations
 `build_max_help` produce a max-heap from an unordered array
 `max_heapify` correct a single violation of the heap property in a subtree at its root
 `insert, extract_max, heapsort`
 
-Max_heapify with O(log n)
+### Max_heapify with O(log n)
 Assume that the trees rooted at left(i) and right(i) are max-heaps
 
 ```python
@@ -66,7 +66,7 @@ if largest !=i:
 # Max_Heapify(A, largest)
 ```
 
-Build_Max_Heap
+### Build_Max_Heap
 ```
 for i=n/2 downto 1
     do Max_Heapify(A, i)
