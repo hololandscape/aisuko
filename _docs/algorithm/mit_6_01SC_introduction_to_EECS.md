@@ -70,7 +70,7 @@ Recursive
 * a `legal action list`, which is just a list of actions that can be legally executed in this domain
 
 The basic structure
-```Python
+```python
 def search(initialState, goalTest, actions, successor):
     # goalTest with the starting state as parameters
     if goalTest(initialState):
@@ -110,7 +110,7 @@ We will start by defining a class to represent a search node
 <iframe src="https://hostux.social/@aisuko/109769794138148960/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 
-```Python
+```python
 class SearchNode:
     def __init__(self, action, state, parent):
         self.state=state
@@ -121,7 +121,7 @@ class SearchNode:
 There are a couple of useful methods
   * the `path` method, returns a list of pairs (a, s) corresponding to the path staring at the top(root) of the tree. It works its way up the tree, until it reaches a node whose parent is None
 
-  ```Python
+  ```python
   def path(self):
       if self.parent==None:
         return [(self.action, self.states)]
@@ -130,7 +130,7 @@ There are a couple of useful methods
   ```
   * the `inPath` method, which takes a state and returns True if the state occurs anywhere in the path from the root to the node
 
-  ```Python
+  ```python
   def inPath(self, s):
       if s==self.state:
           return True
@@ -159,7 +159,7 @@ In designing algorithms, we frequently make use of two simple data structures: `
 
 In Python, we can use lists to represent both stacks and queues. If data is a list, then data.pop(0) removes the first element from the list and return it, and data.pop() removes the latest element and returns it.
 
-```Python
+```python
 Class Stack:
     def __init__(self):
         self.data=[]
@@ -171,7 +171,7 @@ Class Stack:
         return self.data is []
 ```
 
-```Python
+```python
 Class Queue:
     def __init__(self):
         self.data=[]
@@ -194,7 +194,7 @@ Some important properties od breadth-first search:
 * It may run forever if there is no solution and the domain is infinite
 * It requires more space than depth-first search
 
-```Python
+```python
 def depthFirstSearch(initialState, goalTest, actions, successor)
     agenda=Stack()
     if goalTest(initialState)
