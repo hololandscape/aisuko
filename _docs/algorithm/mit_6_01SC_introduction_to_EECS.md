@@ -46,9 +46,9 @@ Interpreter
 
 ### 3.1 Primitives
 Primitive data(integers, floating point numbers, and strings)
-  * Data structures(lists, arrays, dictionaries and records)
-Abstract data types
-  * It provides a way of abstracting away from representational details and allowing us to focus on what the data really means.
+* `Data structures`(lists, arrays, dictionaries and records) in python language. Make DS allow us at the most basic level to think of a collection of primitive data elements.
+* Sometimes we want to think of a collection of data, like a set of objects, or a family tree, without worrying whether it is an array or a list in its basic representation.
+* `Abstract data types` provides a way of abstracting away from representational details and allowing us to focus on what the data really means.
 
 ### 3.3 Structured data
 List mutation and shared structure

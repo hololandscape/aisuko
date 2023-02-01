@@ -43,5 +43,32 @@ Why the binary search tree needs to be balanced?
 <iframe src="https://hostux.social/@aisuko/109783346056857246/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 
+## AVL Trees
+> Adel'son-Vel'skii & Landis 1962
+
+For every node, require heigts of left & right children to differ by at most +1
+* treat nil tree as height -1
+* each node stores its height (DATA STRUCTURE AUGMENTATION) (like subtree size)(alternatively, can just store difference in heights)
+<iframe src="https://hostux.social/@aisuko/109787769479393196/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+### Balance
+<iframe src="https://hostux.social/@aisuko/109788287702887562/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+### AVL Insert:
+* Insert as in simple BST
+* work your way up tree, restoring AVL property(And updating heights as you go)
+<iframe src="https://hostux.social/@aisuko/109787819733050404/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+
+## Big Picture
+`Abstract Data Type(ADT)`: interface spec.
+vs
+`Data Structure(DS)`: algorithm for each op
+
+There are many possible DSs for one ADT.
+
+<iframe src="https://hostux.social/@aisuko/109788411998689792/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+
 ## Source
 [https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/)
