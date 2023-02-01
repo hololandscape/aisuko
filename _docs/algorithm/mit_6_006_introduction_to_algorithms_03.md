@@ -54,20 +54,20 @@ For every node, require heigts of left & right children to differ by at most +1
 ### Balance
 <iframe src="https://hostux.social/@aisuko/109788287702887562/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
-### AVL Insert:
+### AVL Insert
 * Insert as in simple BST
 * work your way up tree, restoring AVL property(And updating heights as you go)
 <iframe src="https://hostux.social/@aisuko/109787819733050404/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 
 ## Big Picture
-`Abstract Data Type(ADT)`: interface spec.
-vs
+`Abstract Data Type(ADT)`: interface spec.  
+vs  
 `Data Structure(DS)`: algorithm for each op
 
 There are many possible DSs for one ADT.
 
-<iframe src="https://hostux.social/@aisuko/109788411998689792/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+<iframe src="https://hostux.social/@aisuko/109788411998689792/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 
 ## Source
