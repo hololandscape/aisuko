@@ -30,6 +30,8 @@ docs:
         url: /docs/mit_6_006_02/
       - title: "Introduction to Algorithms 03"
         url: /docs/mit_6_006_03/
+      - title: "Introduction to Algorithms 04"
+        url: /docs/mit_6_006_04/
       - title: "Design and Analysis of Algorithms"
         url: /docs/mit_6_046J/
   - title: Data Structure(Computer Science)
