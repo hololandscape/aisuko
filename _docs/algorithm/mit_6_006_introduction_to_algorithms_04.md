@@ -11,16 +11,13 @@ toc         : true
 * Comparison model
 * Lower bounds in the comparison model
   - searching: binary search, AVL tree search optimal 
-
-```markdown
-$\Omega(lg n)$
-```
+    ```markdown
+    $\Omega(lg n)$
+    ```
   - sorting: mergesort, heap sort, AVL sort optimal
-
-```markdown
-$\Omega(n lg n)$
-```
-
+    ```markdown
+    $\Omega(n lg n)$
+    ```
 * O(n) sorting algorithms for small integers
   - counting sort
   - radix sort
