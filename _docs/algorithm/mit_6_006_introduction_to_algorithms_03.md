@@ -48,11 +48,13 @@ Why the binary search tree needs to be balanced?
 ## AVL Trees
 Adel'son-Vel'skii & Landis 1962
 
+![image-right](https://hostux.social/system/media_attachments/files/109/787/758/670/053/544/original/5e639fc161c20d6d.jpeg){: .align-right}
+
 For every node, require heigts of left & right children to differ by at most +1
 * treat nil tree as height -1
 * each node stores its height (DATA STRUCTURE AUGMENTATION) (like subtree size)(alternatively, can just store difference in heights)
 
-![image-left](https://hostux.social/system/media_attachments/files/109/787/758/670/053/544/original/5e639fc161c20d6d.jpeg){: .align-left}
+
 
 ![full](https://hostux.social/system/media_attachments/files/109/788/284/637/219/306/original/89be1cec6ada55cd.jpeg){: .full}
 

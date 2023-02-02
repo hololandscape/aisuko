@@ -10,10 +10,17 @@ toc         : true
 ### Linear-Time Sorting Overview
 * Comparison model
 * Lower bounds in the comparison model
-  - searching: $&#92;&#92;Omega(lg n)$
-    * binary search, AVL tree search optimal
-  - sorting: $&#92;&#92;Omega(n lg n)$
-    * mergesort, heap sort, AVL sort optimal
+  - searching: binary search, AVL tree search optimal 
+
+```markdown
+$\Omega(lg n)$
+```
+  - sorting: mergesort, heap sort, AVL sort optimal
+
+```markdown
+$\Omega(n lg n)$
+```
+
 * O(n) sorting algorithms for small integers
   - counting sort
   - radix sort
@@ -23,7 +30,7 @@ toc         : true
 * time cost =# comparisons
 ### Decision Tree
 Any comparison algorithm can be viewd/specified as a tree of all possible comparison outcomes&resulting output, for a particular n, e.g: n=3
-![full](https://hostux.social/system/media_attachments/files/109/792/412/686/129/682/original/d5cbbddf2d8ef7ce.jpeg)
+![full](https://hostux.social/system/media_attachments/files/109/792/412/686/129/682/original/d5cbbddf2d8ef7ce.jpeg){: .full}
 #### Search Lower Bound
 * \# leaves >= \# possible answers >=n
 * decision tree is binary
