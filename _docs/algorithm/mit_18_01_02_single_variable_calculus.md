@@ -7,22 +7,15 @@ toc         : true
 ---
 
 
-# Definite Integrals
-
+## Definite Integrals
 Integrals are used to calculate cumulative totals, average, areas
-
-## Area under a curve
+### Area under a curve
 * Divide region into rectangles
 * Add up area of rectangles
 * Take limit as rectangles become thin
+![full](https://hostux.social/system/media_attachments/files/109/752/940/959/329/572/original/7e4a95e98b2d972a.jpeg){: .full}
+![full](https://hostux.social/system/media_attachments/files/109/752/961/978/861/005/original/bdbb29c661030b03.jpeg){: .full}
 
 
-<iframe src="https://hostux.social/@aisuko/109752942569519071/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
-
-<iframe src="https://hostux.social/@aisuko/109752964594380490/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
-
-
-# Reference
+## Reference
 [MIT_18.01](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/syllabus/)

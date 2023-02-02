@@ -9,7 +9,6 @@ toc         : true
 As I said before that in single-variable calculus. I will list the concepts only rather than the whole content of the course. I have checked all the materials. And according to my several years of experience in software(cloud) engineering. It looks like that many of the concepts from the mathematics for computer science are already known by myself.
 
 
-
 ## 2.6 Proofs about Sets
 There are still some `proofs` should be keep in mind.
 
@@ -27,9 +26,8 @@ It is hard to see offhand why it is useful but ir provides one fo the most impor
 
 I use it for so many years, I know what its name is now finally. This is the original I am trying to find always. 
 
-<iframe src="https://hostux.social/@aisuko/109755347381853691/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
-<iframe src="https://hostux.social/@aisuko/109755418614544189/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/755/344/382/009/712/original/786a4200623a9a56.jpeg){: .full}
+![full](https://hostux.social/system/media_attachments/files/109/755/417/857/443/509/original/b61457657bd221ee.jpeg){: .full}
 
 * The difference between `Induction` and `Well Ordering`
 Induction proofs are clearer because they resemble recursive procedures that reduce handling an input of size n+1 to handling one of size n. On the other hand, Well Ordering proofs sometimes seem more natural, and also come out slightly shorter.
@@ -39,23 +37,17 @@ It certainly looks that way, you just need to use a "stronger" induction hypothe
 
 ### 3.5 Structural Induction
 The idea of induction is especially useful in connection with sets or data types that are defined recursively. And recursive data types play a central role in programming. Recursive definitions have two parts:
-
 * Base case(s) that do not depend on anything else.
 * Constructor case(s) that depend on previous cases.
-
-<iframe src="https://hostux.social/@aisuko/109758384909075609/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
+![full](https://hostux.social/system/media_attachments/files/109/758/381/739/135/273/original/042378b33cf7b27d.jpeg){: .full}
 
 ### 4 Number Theory
 In 1977 highly secure cryptosystem(RSA) based on number theory was proposed.
-
-<iframe src="https://hostux.social/@aisuko/109758531449354566/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
+![full](https://hostux.social/system/media_attachments/files/109/758/530/668/057/293/original/d0ebbe8fd192e042.jpeg){: .full}
 
 ### 5 Structure
 The better you can understand the structure, the better your results will be. The most important structure is computer science is a graph, also known as a `network`.
-
-<iframe src="https://hostux.social/@aisuko/109758617989350531/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/758/616/618/948/165/original/cd5ba0d5b203e30f.jpeg){: .full}
 
 #### 5.7 Trees
 Graphs without cycles (called acyclic graphs) are probably the most important graphs of all when it comes to computer science.

@@ -14,8 +14,7 @@ Modularity, abstraction and modeling
 * Modularity is the idea of building components that can be re-used
 * Abstraction is the idea that after constructing a module(be it software or circuits or gears)
 
-<iframe src="https://hostux.social/@aisuko/109765016605390102/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
+![full](https://hostux.social/system/media_attachments/files/109/765/014/736/667/102/original/1e3adbc64402595d.jpeg){: .full}
 
 * The concept about `compilers` or `interpreters`
 The languages are converted into instructions in the computer's native machine language by other computer programs
@@ -107,7 +106,7 @@ We will start by defining a class to represent a search node
   * the `action` that was taken to arrive at the node
   * the search node from which this node can be reached(`parent`)
 
-<iframe src="https://hostux.social/@aisuko/109769794138148960/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/769/790/096/275/248/original/a87b1ef0bd808d65.jpeg){: .full}
 
 
 ```python
@@ -150,7 +149,7 @@ There are some pruning rules:
 * If there are multiple actions that lead from a state r to a state s, consider only one of them
 * Do not consider any path that visits a state that you have already visited via some other path
 
-<iframe src="https://hostux.social/@aisuko/109770844839877457/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/770/842/256/061/190/original/a7e18cfed6db9364.jpeg){: .full}
 
 #### Stacks and queues
 In designing algorithms, we frequently make use of two simple data structures: `stacks` and `queues`. You can think of them both as `abstract data types` that support two operations: `push` and `pop`.

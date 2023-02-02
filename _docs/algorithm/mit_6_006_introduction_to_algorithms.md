@@ -8,8 +8,9 @@ toc         : true
 
 ## Peaking finding
 > Algorithmic thinking
-<iframe src="https://hostux.social/@aisuko/109775237988443602/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-<iframe src="https://hostux.social/@aisuko/109775269049204874/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/775/233/804/339/508/original/a035f3503ea3c9e5.jpeg){: .full}
+
+![full](https://hostux.social/system/media_attachments/files/109/775/268/334/417/521/original/c631a0561ab36053.jpeg){: .full}
 
 ## Models of Computation
 Algorithm and time
@@ -20,16 +21,15 @@ Document distance: problem&algorithms
 ### What is an Algorithm?
 Mathematical abstraction of computer program
 Computational procedure to solve a problem
-<iframe src="https://hostux.social/@aisuko/109776068191150090/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
+![full](https://hostux.social/system/media_attachments/files/109/776/066/677/773/237/original/282f9545a47a4801.jpeg){: .full}
+![full](https://hostux.social/system/media_attachments/files/109/776/066/677/773/237/original/282f9545a47a4801.jpeg){: .full}
 ### Random Access Machine (RAM)
-<iframe src="https://hostux.social/@aisuko/109776195766174258/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
+![full](https://hostux.social/system/media_attachments/files/109/776/193/924/858/649/original/43ef961d1011e101.jpeg){: .full}
 ### Pointer Machine
-<iframe src="https://hostux.social/@aisuko/109776224076675442/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
-
+![full](https://hostux.social/system/media_attachments/files/109/776/222/613/315/555/original/89c689046e46aba9.jpeg){: .full}
+![full](https://hostux.social/system/media_attachments/files/109/776/222/815/867/276/original/6bc5b4394fa37e96.jpeg){: .full}
 ### Python Model
-<iframe src="https://hostux.social/@aisuko/109776669879349096/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/776/668/525/856/051/original/faef5ef3df3f85b3.jpeg){: .full}
 
 
 ## Source
