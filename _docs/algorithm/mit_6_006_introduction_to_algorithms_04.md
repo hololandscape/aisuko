@@ -42,7 +42,10 @@ Time: $\Theta(n+k)$ also $\Theta(n+k) space$
 <iframe src="https://hostux.social/@aisuko/109792527021576313/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
 #### Radix Soft
-<iframe src="https://hostux.social/@aisuko/109792566034413931/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+![full](https://hostux.social/system/media_attachments/files/109/792/564/978/371/751/original/e38c2de5f9218910.jpeg)
+
+<!-- <iframe src="https://hostux.social/@aisuko/109792566034413931/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script> -->
 
 
 ## Source
