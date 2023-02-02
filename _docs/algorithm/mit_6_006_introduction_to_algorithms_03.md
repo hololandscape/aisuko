@@ -8,7 +8,8 @@ toc         : true
 
 
 ## Scheduling and Binary Search Trees
-<iframe src="https://hostux.social/@aisuko/109782731343121919/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+![full](https://hostux.social/system/media_attachments/files/109/782/705/366/615/843/original/ae5a74c8a3bc22a9.jpeg){: .full}
 
 ### Binary Search Trees
 
@@ -40,7 +41,8 @@ Why the binary search tree needs to be balanced?
 * BSTs support insert, delete, min, max,next-larger, next-smaller, etc. in O(h) time, where h =height of tree(= height of root)
 * h is between lg n and n
 * balanced BST maintains h =O(lg n) -> all operations run in O(lg n) time
-<iframe src="https://hostux.social/@aisuko/109783346056857246/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+![image-right](https://hostux.social/system/media_attachments/files/109/783/342/841/625/848/original/901751ebf16841b4.jpeg){: .align-right}
 
 
 ## AVL Trees
@@ -49,15 +51,21 @@ Why the binary search tree needs to be balanced?
 For every node, require heigts of left & right children to differ by at most +1
 * treat nil tree as height -1
 * each node stores its height (DATA STRUCTURE AUGMENTATION) (like subtree size)(alternatively, can just store difference in heights)
-<iframe src="https://hostux.social/@aisuko/109787769479393196/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
 
-### Balance
-<iframe src="https://hostux.social/@aisuko/109788287702887562/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![image-left](https://hostux.social/system/media_attachments/files/109/787/758/670/053/544/original/5e639fc161c20d6d.jpeg){: .align-left}
+
+
+![full](https://hostux.social/system/media_attachments/files/109/788/284/637/219/306/original/89be1cec6ada55cd.jpeg){: .full}
 
 ### AVL Insert
 * Insert as in simple BST
 * work your way up tree, restoring AVL property(And updating heights as you go)
-<iframe src="https://hostux.social/@aisuko/109787819733050404/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+
+![image-right](https://hostux.social/system/media_attachments/files/109/788/245/670/339/945/original/f87e1f4e7a30b894.jpeg){: .align-right}
+
+![full](https://hostux.social/system/media_attachments/files/109/787/816/007/974/665/original/689905954540c7e8.jpeg){: .full}
+
+![full](https://hostux.social/system/media_attachments/files/109/787/816/807/004/128/original/2de40a77de2b1373.jpeg){: .full}
 
 
 ## Big Picture
@@ -67,7 +75,8 @@ vs
 
 There are many possible DSs for one ADT.
 
-<iframe src="https://hostux.social/@aisuko/109788411998689792/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/788/402/173/926/513/original/d279c44ed8030be1.jpeg){: .full}
+
 
 
 ## Source
