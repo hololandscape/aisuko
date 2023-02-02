@@ -39,9 +39,11 @@ Running time
 After n iterations the Heap is empty every iteration involves `a swap` and a `max_heapify operation`; hence it takes O(log n) time. Overall O(n log n)
 
 ## Data structures
-<iframe src="https://hostux.social/@aisuko/109781364506786788/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/781/363/401/971/074/original/e31b615694af3780.jpeg){: .full}
 
-<iframe src="https://hostux.social/@aisuko/109781962045878255/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/781/952/359/944/250/original/dfc7c3b96a04f6b5.jpeg){: .full}
+
+![full](https://hostux.social/system/media_attachments/files/109/781/994/131/570/441/original/ded6befbadfd1017.jpeg){: .full}
 
 ### Heap Operations
 `build_max_help` produce a max-heap from an unordered array
@@ -72,7 +74,7 @@ for i=n/2 downto 1
     do Max_Heapify(A, i)
 ```
 
-<iframe src="https://hostux.social/@aisuko/109782285623362932/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="700" allowfullscreen="allowfullscreen"></iframe><script src="https://hostux.social/embed.js" async="async"></script>
+![full](https://hostux.social/system/media_attachments/files/109/782/284/181/820/048/original/f7e37cb8cf1ad842.jpeg){: .full}
 
 
 ## Source
