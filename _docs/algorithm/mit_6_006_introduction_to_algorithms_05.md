@@ -8,13 +8,6 @@ toc         : true
 
 
 ## Hashing
-* Dictionaries
-* Motivation
-* Prehashing
-* Hashing
-* Chaining
-* Simple uniform hashing
-* "Good" hash functions
 ### Dictionary problem
 ADT- maintain a set of items, each with a key
 * insert(item)
@@ -26,7 +19,7 @@ Balanced BSTs solve in O(lg n) time per op. But our goal is O(1) time per op.
 * network routers: IP address -> wire
 * network server: port number -> socket/app
 * virtual memory: virtual address -> physical
-### The options for solving the dictionary problem
+### Hashing function for dictionary problem
 #### Simple Approach: Direct Access Table
 The items would need to be stored in an array, indexed by key(random access)
 ##### Problems:
