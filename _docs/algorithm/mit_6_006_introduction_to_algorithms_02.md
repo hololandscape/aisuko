@@ -70,7 +70,7 @@ if largest !=i:
 
 ### Build_Max_Heap
 ```
-for i=n/2 downto 1
+for i=n/2 down to 1
     do Max_Heapify(A, i)
 ```
 

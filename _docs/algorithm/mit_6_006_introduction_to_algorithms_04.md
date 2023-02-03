@@ -14,7 +14,7 @@ toc         : true
     ```markdown
     $\Omega(lg n)$
     ```
-  - sorting: mergesort, heap sort, AVL sort optimal
+  - sorting: merge sort, heap sort, AVL sort optimal
     ```markdown
     $\Omega(n lg n)$
     ```
@@ -28,7 +28,7 @@ toc         : true
 * time cost =# comparisons
 
 ### Decision Tree
-Any comparison algorithm can be viewd/specified as a tree of all possible comparison outcomes&resulting output, for a particular n, e.g: n=3
+Any comparison algorithm can be viewed/specified as a tree of all possible comparison outcomes&resulting output, for a particular n, e.g: n=3
 ![full](https://hostux.social/system/media_attachments/files/109/792/412/686/129/682/original/d5cbbddf2d8ef7ce.jpeg){: .full}
 
 #### Search Lower Bound
@@ -37,7 +37,7 @@ Any comparison algorithm can be viewd/specified as a tree of all possible compar
 * ==> height >= $lgn+-\\Theta(1)$
 
 #### Sorting Lower bound
-* leaf specifies as permutaion: A[3]<=A[1]<=A[9]<=...
+* leaf specifies as permutation: A[3]<=A[1]<=A[9]<=...
 * all n! are possible answer
 * \# leaves >=n! ==> $\\Omega(nlgn)$
 
