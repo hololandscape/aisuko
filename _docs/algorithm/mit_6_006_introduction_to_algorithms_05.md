@@ -36,10 +36,10 @@ The items would need to be stored in an array, indexed by key(random access)
 ##### Chaining
 * Search must go through whole list T[h(key)]
 * The worst case is $\Theta (n)$
-
+Linked list of colliding elements in each slot of table
+![full](https://hostux.social/system/media_attachments/files/109/800/480/340/792/879/original/95403eabfe166740.jpeg){: .full}
 ##### Open addressing
-#TODO
-
+![full](https://hostux.social/system/media_attachments/files/109/803/822/580/949/145/original/872b52b688a45ca1.jpeg){: .full}
 ##### Simple Uniform Hashing
 Each key is equally likely to be hashed to any slot of table, independent of where other keys are hashed.  
 Performance
@@ -47,11 +47,24 @@ Performance
 ### Hash Functions
 Three methods to achieve the above performance:
 * Division Method
-  * It is inconvenient to find a prime number, and division is slow
+  * It is inconvenient to find a prime number, and division is slow.
+  ```
+  h(k)=k mod m
+  ```
 * Multiplication Method
-  * It is faster than division
+  * It is faster than division. m =table size = $\mathrc 2^r$
 * Universal Hashing
   * It as good as Multiplication Method and Division Method
+
+### Open Addressing vs Chaining
+Open Addressing: better cache performance(better memory usage, no pointers needed)
+Chaining: less sensitive to hash functions
+
+### Desirable Properties
+* One way(OW)
+* Collision-resistance(CR)
+* Target collision-resistance(TCR)
+TCR is weak than CR. If a hash function satisfies CR, it automatically satisfies TCR. There is no implication relationship between OW and CR/TCR.
 
 
 ## Source
