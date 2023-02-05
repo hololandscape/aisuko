@@ -1,6 +1,6 @@
 ---
-title       : "Introduction to Algorithms 03"
-excerpt     : "Introduction to Algorithms 03"
+title       : "Trees"
+excerpt     : "Trees"
 sitemap     : false
 permalink   : /docs/mit_6_006_03/
 toc         : true

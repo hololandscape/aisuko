@@ -26,14 +26,18 @@ docs:
         url: /docs/mit_6_01SC/
       - title: "Introduction to Algorithms"
         url: /docs/mit_6_006/
-      - title: "Introduction to Algorithms 02"
+      - title: "Sorting"
         url: /docs/mit_6_006_02/
-      - title: "Introduction to Algorithms 03"
+      - title: "Trees"
         url: /docs/mit_6_006_03/
-      - title: "Introduction to Algorithms 04"
+      - title: "Sorting Problems"
         url: /docs/mit_6_006_04/
-      - title: "Introduction to Algorithms 05"
+      - title: "Hashing"
         url: /docs/mit_6_006_05/
+      - title: "Graphs"
+        url: /docs/mit_6_006_06/
+      - title: "Dynamic Programming"
+        url: /docs/mit_6_006_07/
       - title: "Design and Analysis of Algorithms"
         url: /docs/mit_6_046J/
   - title: Data Structure(Computer Science)

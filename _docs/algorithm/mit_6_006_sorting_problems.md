@@ -1,6 +1,6 @@
 ---
-title       : "Introduction to Algorithms 04"
-excerpt     : "Introduction to Algorithms 04"
+title       : "Sorting Problems"
+excerpt     : "Sorting Problems"
 sitemap     : false
 permalink   : /docs/mit_6_006_04/
 toc         : true

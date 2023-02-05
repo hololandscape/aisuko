@@ -1,10 +1,13 @@
 ---
-title       : "Introduction to Algorithms 02"
-excerpt     : "Introduction to Algorithms 02"
+title       : "Sorting"
+excerpt     : "Sorting"
 sitemap     : false
 permalink   : /docs/mit_6_006_02/
 toc         : true
 ---
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4E6RYFuOAVX7bI7leduRWI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## The problem of sorting
 Problems that become easy once items are in sorted order
@@ -26,7 +29,7 @@ Complexity: O(n log n) comparisons,  n^2 swaps
 If `n=1`, done(nothing to sort). Otherwise, recursively sort A[1..n/2] and A[n/2+1..n]. "Merge" the two sorted sub-arrays  
 Running time = O(n) to merge a total of n elements (linear time)
 
-### Heap-Sort
+### Heap Sort
 Sorting Strategy:
 * Build Max Heap from unordered array;
 * Find maximum element `A[l]`;

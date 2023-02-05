@@ -1,11 +1,12 @@
 ---
-title       : "Introduction to Algorithms 06"
-excerpt     : "Introduction to Algorithms 06"
+title       : "Graphs"
+excerpt     : "Graphs"
 sitemap     : false
 permalink   : /docs/mit_6_006_06/
 toc         : true
 ---
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VqSdtXseb9khdZrnYVyM1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Graphs
 ![full](https://hostux.social/system/media_attachments/files/109/804/548/602/575/430/original/cbb65011365039fe.jpeg){: .full}

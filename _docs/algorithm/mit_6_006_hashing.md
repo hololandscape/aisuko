@@ -1,6 +1,6 @@
 ---
-title       : "Introduction to Algorithms 05"
-excerpt     : "Introduction to Algorithms 05"
+title       : "Hashing"
+excerpt     : "Hashing"
 sitemap     : false
 permalink   : /docs/mit_6_006_05/
 toc         : true
