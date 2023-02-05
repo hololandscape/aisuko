@@ -6,8 +6,12 @@ permalink   : /docs/mit_6_006/
 toc         : true
 ---
 
+
 ## Peaking finding
-> Algorithmic thinking
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5RBp3FpGTZncUX0zHD5LM2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### Algorithmic thinking
 ![full](https://hostux.social/system/media_attachments/files/109/775/233/804/339/508/original/a035f3503ea3c9e5.jpeg){: .full}
 
 ![full](https://hostux.social/system/media_attachments/files/109/775/268/334/417/521/original/c631a0561ab36053.jpeg){: .full}
