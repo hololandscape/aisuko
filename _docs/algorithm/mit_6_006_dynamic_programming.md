@@ -13,7 +13,11 @@ toc         : true
 * Powerful algorithmic design technique
 * Large class of seemingly exponential problems have a polynomial solution via DP
 * Particularly for optimization problems(min/max) (e.g: shortest paths)
+### Memoized DP Algorithm
+* memoized calls free($\theta(1)$ time)
+![full](https://hostux.social/system/media_attachments/files/109/816/051/923/812/399/original/b56d091d1b6280e0.jpeg){: .full}
 
+![full](https://hostux.social/system/media_attachments/files/109/816/063/591/136/165/original/52c4000e2f1f61b2.jpeg){: .full}
 
 
 ## Source
