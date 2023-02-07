@@ -14,11 +14,11 @@ toc         : true
 * Lower bounds in the comparison model
   - searching: binary search, AVL tree search optimal 
     ```markdown
-    $\Omega(lg n)$
+    $$\Omega(lg n)$$
     ```
   - sorting: merge sort, heap sort, AVL sort optimal
     ```markdown
-    $\Omega(n lg n)$
+    $$\Omega(n lg n)$$
     ```
 * O(n) sorting algorithms for small integers
   - counting sort
@@ -36,12 +36,12 @@ Any comparison algorithm can be viewed/specified as a tree of all possible compa
 #### Search Lower Bound
 * \# leaves >= \# possible answers >=n
 * decision tree is binary
-* ==> height >= $lgn+-\\Theta(1)$
+* ==> height >= $$lgn_{+-\Theta(1)}$$
 
 #### Sorting Lower bound
 * leaf specifies as permutation: A[3]<=A[1]<=A[9]<=...
 * all n! are possible answer
-* \# leaves >=n! ==> $\\Omega(nlgn)$
+* \# leaves >=n! ==> $$\\Omega(nlgn)$$
 
 #### Linear-time Sorting
 If n keys are integers,
@@ -49,7 +49,7 @@ If n keys are integers,
     * if $k=\mathrm{n}^{O(1)}$, can sort in O(n) time
 
 #### Counting Sort
-Time: $\\Theta(n+k)$; also $\\Theta(n+k)$ space
+Time: $$\Theta(n+k)$$; also $$\Theta(n+k)$$ space
 ![image-left](https://hostux.social/system/media_attachments/files/109/792/525/563/444/839/original/05ed5d0a71d4215a.jpeg){: .aligen-left}
 
 #### About Radix Soft 

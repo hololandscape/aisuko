@@ -26,7 +26,7 @@ Balanced BSTs solve in O(lg n) time per op. But our goal is O(1) time per op.
 The items would need to be stored in an array, indexed by key(random access)
 ##### Problems:
 * keys must be nonnegative integers(or using two array, integers)
-* large key range => large space - e.g one key of $\mathrm{2}^{256}$
+* large key range => large space - e.g one key of $$\mathrm{2}^{256}$$
 ##### Solution
 * `prehash` key to integers, e.g: has(obj) in Python
 * hashing
@@ -37,7 +37,7 @@ The items would need to be stored in an array, indexed by key(random access)
 ##### How to deal with collisions?
 ##### Chaining
 * Search must go through whole list T[h(key)]
-* The worst case is $\Theta (n)$
+* The worst case is $$\Theta (n)$$
 Linked list of colliding elements in each slot of table
 ![full](https://hostux.social/system/media_attachments/files/109/800/480/340/792/879/original/95403eabfe166740.jpeg){: .full}
 ##### Open addressing
@@ -45,7 +45,7 @@ Linked list of colliding elements in each slot of table
 ##### Simple Uniform Hashing
 Each key is equally likely to be hashed to any slot of table, independent of where other keys are hashed.  
 Performance
-* The expected running time for search is $\mathrm(1+\alpha)$, the 1 comes from applying the hash function and random access to the slot whereas the $\alpha$ comes from searching the list.
+* The expected running time for search is $$\mathrm(1+\alpha)$$, the 1 comes from applying the hash function and random access to the slot whereas the $$\alpha$$ comes from searching the list.
 ### Hash Functions
 Three methods to achieve the above performance:
 * Division Method
@@ -54,7 +54,7 @@ Three methods to achieve the above performance:
   h(k)=k mod m
   ```
 * Multiplication Method
-  * It is faster than division. m =table size = $\mathrc 2^r$
+  * It is faster than division. m =table size = $$\mathrc 2^r$$
 * Universal Hashing
   * It as good as Multiplication Method and Division Method
 
