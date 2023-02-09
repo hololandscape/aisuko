@@ -23,12 +23,29 @@ locale                   : "en-US"
 title                    : "Port Melbourne Beach"
 title_separator          : "-"
 subtitle                 : ""
-words_per_minute         : 200
+words_per_minute         : 300
 email                    : urakiny@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Interested in Quantum computing and MIT-Scheme, Student of RMIT
 twitter_username         : AisukoLi
 github_username          : Aisuko
+
+
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+
 
 search                   : true
 search_full_content      : true # true, false (default)
@@ -40,7 +57,7 @@ highlighter: rouge
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -83,6 +100,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
+    - label: "Mastodon"
+      icon: "fas fa-fw fa-link"
+      url: "https://hostux.social/@aisuko#"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -95,12 +115,16 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
+    - label: "Mastodon"
+      icon: "fas fa-fw fa-link"
+      url: "https://hostux.social/@aisuko#"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Flickr"
       icon: "fab fa-fw fa-flickr"
       url: "https://flickr.com/people/aisukoli/"
+
 
 
 # Defaults
