@@ -5,10 +5,10 @@ hidden: false
 header:
 #   overlay_color: "#5e616c"
   # overlay_filter: "0.1"
-  overlay_image: https://live.staticflickr.com/65535/52654294115_49458865fa_k.jpg
+  overlay_image: https://live.staticflickr.com/65535/51658380136_740723f1c3_k.jpg
   actions:
     - label: "<i class='fas fa-download'>Find this picture</i>"
-      url: https://live.staticflickr.com/65535/52654294115_49458865fa_k.jpg
+      url: https://flic.kr/p/2mGSGEu
 # excerpt: >
 #   Photograph .<br />
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
