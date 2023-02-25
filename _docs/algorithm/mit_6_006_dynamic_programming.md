@@ -13,6 +13,12 @@ toc         : true
 * Powerful algorithmic design technique
 * Large class of seemingly exponential problems have a polynomial solution via DP
 * Particularly for optimization problems(min/max) (e.g: shortest paths)
+
+### How to create a Dynamic Programming problems?
+* Find the first solution(base case)
+* Analyze the solution
+* Optimize the solution
+
 ### Memoized DP Algorithm
 * memoized calls free($$\theta(1)$$ time)
 ![full](https://hostux.social/system/media_attachments/files/109/816/051/923/812/399/original/b56d091d1b6280e0.jpeg){: .full}
