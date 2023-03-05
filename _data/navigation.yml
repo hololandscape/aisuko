@@ -68,3 +68,7 @@ docs:
         url: /docs/steam_deck/
       - title: "SD Dock & Switch"
         url: /docs/steamdeck_switch/
+  - title: Rust Atomics and Locks
+    children:
+      - title: "Basic of Concurrency"
+        url: /docs/basic_of_concurrency_rust/
