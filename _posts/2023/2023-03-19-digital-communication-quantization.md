@@ -12,6 +12,11 @@ toc_icon: "cog"
 # Overview
 The digitization of analog signals involves the rounding off of the values which are approximately equal to the analog values. The method of sampling chooses a few points on the analog signal and then these points are joined to round off the value to a near stabilized value. Such a process is called as Quantization.
 
+## A/D Conversion
+* Sampling: sample the amplitude, horizontal(enough samples)
+* Quantization; assign the samples to a level, vertical(enough bit-depth per sample)
+* Encoding: binary code for transmission, voltage pass through hardware
+
 ## Quantization
 Quantization is representing the sampled values of the amplitude by a finite set of levels, which means converting a continuous-amplitude sample into a discrete-time signal.
 
