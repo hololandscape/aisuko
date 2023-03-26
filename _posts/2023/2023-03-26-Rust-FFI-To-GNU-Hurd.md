@@ -3,6 +3,7 @@ title: "Foreign Function Interface In Rust"
 categories:
   - ffi
   - rust
+  - gnu
 tags:
   - 
 toc: True
