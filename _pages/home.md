@@ -6,9 +6,9 @@ header:
 #   overlay_color: "#5e616c"
   # overlay_filter: "0.1"
   overlay_image: https://live.staticflickr.com/65535/52802134438_026bec6bb3_k.jpg
-  actions:
-    - label: "<i class='fas fa-download'>Find this picture</i>"
-      url: https://flic.kr/p/2mGSGEu
+  # actions:
+  #   - label: "<i class='fas fa-download'>Find this picture</i>"
+  #     url: https://flic.kr/p/2mGSGEu
 # excerpt: >
 #   Photograph .<br />
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
@@ -29,7 +29,7 @@ feature_row:
     btn_label: "Posts"
   - image_path: https://live.staticflickr.com/65535/52802134443_b5be63a30d_k.jpg
     alt: "100% free"
-    title: Port Melbourne Beach
+    title: MoU
     # excerpt: "Steam Deck is shipping."
     url: https://www.flickr.com/photos/aisukoli/52802134443/in/dateposted-public/
     btn_class: "btn--primary"
