@@ -5,7 +5,7 @@ hidden: false
 header:
 #   overlay_color: "#5e616c"
   # overlay_filter: "0.1"
-  overlay_image: https://live.staticflickr.com/65535/51658380136_740723f1c3_k.jpg
+  overlay_image: https://live.staticflickr.com/65535/52802134438_026bec6bb3_k.jpg
   actions:
     - label: "<i class='fas fa-download'>Find this picture</i>"
       url: https://flic.kr/p/2mGSGEu
@@ -27,11 +27,11 @@ feature_row:
     url: https://hololandscape.github.io/aisuko/posts/
     btn_class: "btn--primary"
     btn_label: "Posts"
-  - image_path: https://live.staticflickr.com/65535/52654294100_49a92808ea_k.jpg
+  - image_path: https://live.staticflickr.com/65535/52802134443_b5be63a30d_k.jpg
     alt: "100% free"
     title: Port Melbourne Beach
     # excerpt: "Steam Deck is shipping."
-    url: https://maps.apple.com/?address=Beach%20St,%20Moonee%20Ponds%20VIC%203207,%20Australia&auid=17370359500217447886&ll=-37.842967,144.935520&lsp=9902&q=Port%20Melbourne%20Beach
+    url: https://www.flickr.com/photos/aisukoli/52802134443/in/dateposted-public/
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
